@@ -16,7 +16,7 @@
 
 | 大学 | 国 | リモート | 在職(PT) | 組合せ | 分野の受け皿 | 総合 |
 |---|---|---|---|---|---|---|
-| **York** | 英 | Distance PhD | PT 6年 | **◎ 明記** | **◎ Centre for Assuring Autonomy 他** | **◎ 最有力** |
+| **York** | 英 | Distance PhD | PT 6年(72か月) | **◎ 出願ページに明記** | **◎ CfAA(自動運転を明示的に扱う)** | **◎ 総合1位**(詳細: `labs/york.md`) |
 | **Swansea** (CS) | 英 | Distance PhD | PT 6年 | **◎ 明記** | △ 受け皿なし(要翻訳) | ○ |
 | **UOW** | 豪 | Distance HDR | PT可 | **◎ 明記** | ? 未確認 | ○ |
 | **UTS** | 豪 | PhD by distance | PT 最長8年 | ○ 推定 | **◎ Robotics Institute** | ○ |
@@ -48,7 +48,7 @@
 |---|---|---|
 | **TU Delft**(External) | 一時金 €11,000 + bench fee €10,000/年(**記載が併存しており要確認**) | 4年で約€51,000か |
 | **Swansea** (CS) | PT £11,800/年 | 6年 約£70,800 |
-| **York** (CS) | FT £32,030/年(2027/28)。PT額は未掲載、半額なら約£16,000/年 | 6年 約£96,000 |
+| **York** (CS) | FT £32,030/年(2027/28、STEMバンド)。**PT額は未掲載** | 6年 約£96,000(半額と仮定した試算) |
 | **UTS** | course fee A$198,543(CS)/ A$215,274(Eng)。年額か総額か要確認。PTは年額×0.5 | 要確認 |
 
 → **蘭の External PhD ルートが桁違いに安い可能性がある**。ただしリモート可否が全く不明で、ここが最大の未知数。
@@ -70,7 +70,7 @@
 - **懸念**: Institute for Safe Autonomy は実験施設を持つ「living lab」。ただしCS側の検証・保証(assurance)研究は理論主体で、リモート適性は高いとみられる
 - **テーマとの接続**: `research-theme/candidates.md` の「安全性の形式検証」候補に直結。加えて Real-Time and Distributed Systems は自動車システムを扱うため、経路計画・制御側からの接続も考えられる
 - 出典: [PhD Computer Science](https://www.york.ac.uk/computer-science/study/postgraduate-research/phd-computer-science/) / [Research Groups](https://www.york.ac.uk/computer-science/research/groups/) / [Institute for Safe Autonomy](https://www.york.ac.uk/safe-autonomy/) / [国際学費](https://www.york.ac.uk/study/postgraduate-research/fees/international/)
-- 次: 個別ファイル `labs/york.md` を作り、Centre for Assuring Autonomy と Real-Time and Distributed Systems の教員を洗い出す
+- **調査済み → `labs/york.md`**。出願ページに「Part-time: Distance Learning (72 months)」が明示されていることを確認。最有力の指導教員候補は **Prof Radu Calinescu**(形式手法によるコントローラ合成、純ソフトウェアでリモート適性が極めて高い)
 
 ### UOW - University of Wollongong(豪州) — 制度面が最もクリーン
 
@@ -110,8 +110,9 @@
 
 ## 次のアクション(優先度順)
 
-1. **York を個別調査**(`labs/york.md`): 制度・学費(PT額)・教員。現時点で「制度◎ × テーマ◎」を同時に満たす唯一の候補
+1. ~~York を個別調査~~ → **完了**(`labs/york.md`)。総合1位。残課題は**パートタイム学費レートの確認**(総額を左右する最重要項目)
 2. **TU Delft の居住要件・リモート可否**を確認。通れば費用面で圧倒的に有利
 3. **UOW の分野の受け皿**を確認。制度は最もクリーンなので、受け皿さえあれば有力
 4. Twente / Eindhoven の External PhD を調査
-5. UTS・UOW・TU Delft への照会文面を作成(`contacts/`)
+5. York・UTS・UOW・TU Delft への照会文面を作成(`contacts/`)。各校の未確認事項をまとめて投げる
+6. `research-theme/` のテーマ具体化。York・Swansea とも出願に研究提案書が要る
