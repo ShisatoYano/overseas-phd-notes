@@ -109,3 +109,14 @@ UTSの公式記述に次の一文がある。
 つまり「国際学生はフルタイム・オンキャンパスでなければならない」という制約の根拠は**学生ビザ要件であって大学の学則ではない**。ビザを取得しないフルリモートなら、この制約は原理的に適用されない。
 
 → **この論法は豪州の他大学にも同様に適用できる**見込み。豪州の大学を調べる際は「国際学生はフルタイムのみ」という記載を見ても即座に脱落とせず、それがビザ起因かどうかを確認する。
+
+### 【2026-09-22 追記3】ビザ論法が英国でも確認された
+
+UTS(豪)に続き、英国・豪州の複数大学で同じ構造が公式文面から確認できた。
+
+- **York**(英): 「**You cannot study a part-time course at the University of York if you require a Student Visa.**」
+- **UOW**(豪): 「International candidates based overseas **do not need an Australian study visa so are eligible to undertake HDR studies part-time**, an option not available for onshore students.」
+
+UOW は「ビザ不要だからパートタイム可」を**肯定形で明記した唯一の例**であり、他大学へ照会する際の論拠として引用できる。
+
+→ 調査ルール: 「国際学生はフルタイムのみ」という記載を見ても即座に脱落とせず、**それがビザ起因かどうかを確認する**。候補大学の横断リストは `labs/_candidates.md`。
