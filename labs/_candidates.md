@@ -18,9 +18,9 @@
 |---|---|---|---|---|---|---|
 | **York** | 英 | Distance PhD | PT 6年(72か月) | **◎ 出願ページに明記** | **◎ CfAA(自動運転を明示的に扱う)** | **◎ 総合1位**(詳細: `labs/york.md`) |
 | **Swansea** (CS) | 英 | Distance PhD | PT 6年 | **◎ 明記** | △ 受け皿なし(要翻訳) | ○ |
-| **UOW** | 豪 | Distance HDR | PT可 | **◎ 明記** | ? 未確認 | ○ |
+| **UOW** | 豪 | Distance HDR | PT可 | **◎ 肯定形で明記(唯一)** | △ 自律移動の拠点なし。DSL が唯一の接続先 | ○(詳細: `labs/uow.md`) |
 | **UTS** | 豪 | PhD by distance | PT 最長8年 | ○ 推定 | **◎ Robotics Institute** | ○ |
-| **TU Delft** | 蘭 | ? 不明 | External PhD | ? 不明 | **◎ 自律移動・制御が世界的に強い** | ? 要調査 |
+| **TU Delft** | 蘭 | External PhD(在職・現居住地維持を公式に明記) | ◎ | **○ ただし地理的範囲が不明** | **◎ Autonomous Multi-robots Lab 他(全候補中トップ)** | ○ 不確実性大(詳細: `labs/tudelft.md`) |
 | Reading | 英 | PhD by Distance | PT 4-6年 | △ 条件付き | ? 未確認 | △ |
 | Wolverhampton | 英 | FT distance 4年 | PT 8年 | ? 未確認 | ? Computing and Mathematics | ? |
 | UNE | 豪 | External/Offshore HDR | ? | ? | △ 薄いと推定 | △ |
@@ -46,12 +46,12 @@
 
 | 大学 | 学費 | 想定総額 |
 |---|---|---|
-| **TU Delft**(External) | 一時金 €11,000 + bench fee €10,000/年(**記載が併存しており要確認**) | 4年で約€51,000か |
+| **TU Delft**(External) | 授業料 €11,000(1回)+ bench fee €10,000/**年** | 4年 約€51,000 / **6年 約€71,000** |
 | **Swansea** (CS) | PT £11,800/年 | 6年 約£70,800 |
 | **York** (CS) | FT £32,030/年(2027/28、STEMバンド)。**PT額は未掲載** | 6年 約£96,000(半額と仮定した試算) |
 | **UTS** | course fee A$198,543(CS)/ A$215,274(Eng)。年額か総額か要確認。PTは年額×0.5 | 要確認 |
 
-→ **蘭の External PhD ルートが桁違いに安い可能性がある**。ただしリモート可否が全く不明で、ここが最大の未知数。
+→ 【**訂正**】初版で「蘭の External PhD は桁違いに安い可能性」と書いたが、**bench fee が年額であることを見落としていた**。6年で約€71,000となり Swansea(約£70,800)とほぼ同水準。費用面の特別な優位性はない。
 
 ---
 
@@ -78,18 +78,18 @@
 - 対象は「**コースワークを含まない研究学位のみ**」(PhD または MPhil)。指導はバーチャル。居住地は豪州内外を問わない
 - **「Suitable only for research projects that do not require physical access to facilities based at UOW campuses」** → 自分のシミュレーション中心方針と要件が一致
 - キャンパス出席は不要。在学中のオンキャンパス学生からの転換も申請可
-- **未確認**: 学費、年限、そして**自律移動・制御系の受け皿があるか**(今回の検索では確認できず)
+- **調査済み → `labs/uow.md`**。**受け皿は弱い**。UTS Robotics Institute / TU Delft CoR / York CfAA に相当する自律移動の研究拠点はない
+  - UOWのロボティクス(CIMR = ハプティクス・リハビリ・車両制御、FIF = 産業ロボット6台)は**実機・臨床・製造主体**で、「キャンパス施設への物理アクセスを要しない研究のみ」という distance HDR の要件と**構造的にぶつかる**
+  - 唯一の接続先は **Decision Systems Lab**。マルチエージェント自律システム・自律無人ビークルを**明示的にアルゴリズム/シミュレーション主体**で扱う。ただし制御理論的な経路計画ではなくAI・意思決定・最適化の系統で、**Swansea と同種の「翻訳」が必要**
+  - ほかに SMART Infrastructure Facility(交通シミュレーション、Nam Huynh)があるが、交通ネットワーク・都市レベルで車両単体の制御とは階層が違う
 - 出典: [Higher Degrees by Research (UOW)](https://www.uow.edu.au/research/graduate-research/future-students/higher-degrees-by-research/)
 
-### TU Delft(オランダ) — 高リスク・高リターン
+### TU Delft(オランダ) — 調査済み → `labs/tudelft.md`
 
-- **External PhD(buitenpromovendus)**: 大学に雇用されず、自己資金で学位を目指す正規ルート。TU Delft とは雇用契約を結ばず、報酬もない
-- 費用: 「外部PhDの授業料 **€11,000(一時金)**、監督費用等を含む」という記載と、「外部PhD候補者には**監督のための bench fee €10,000/年**」という記載が併存。学部ごとに異なる可能性があり**要確認**
-- 4年プログラムの1年目末に go/no go 判定あり
-- 入学要件: 関連分野の修士号、英語での口頭・記述能力
-- **最大の未知数: 居住要件とリモート可否**。「大学は外部PhD候補者に関する方針を自由に定められる」とされ、TU Delft の方針は今回確認できなかった
-- **分野の受け皿は極めて強い**(自律移動・制御)。リモートさえ通れば最有力になり得る
-- 出典: [PhD Fees and funding (TU Delft)](https://www.tudelft.nl/en/education/programmes/phd/phd-admission/fees-and-funding) / [External PhD candidates (PNN)](https://hetpnn.nl/en/kennisbank/buitenpromovendi/)
+- **在職・現居住地維持が公式に明記されている**: 「keep your current job and/or stay where you live and work on your project part-time as an external PhD candidate」— これまで調べたどの大学よりも直接的に今回の条件を記述している
+- **テーマ適合度は全候補中トップクラス**: Cognitive Robotics 学部の **Autonomous Multi-robots Lab**(モーションプランニング、マルチロボット、インテリジェント交通)、**Learning and Autonomous Control**(マルチロボット制御、リアルタイム協調)。**Assoc Prof Javier Alonso-Mora** は経路計画・制御・マルチロボット協調の3領域すべてに重なる
+- **だが不確実性が最大**: (1)「stay where you live」に日本(EU域外)が含まれるか不明 (2) 学部ごとに方針が大きく異なり、**A+BE は2025年から自己資金PhDの受け入れを停止**、IDE は**オランダでの生活費**カバーを要求 (3) パートタイム外部PhDの資金モデルが「雇用主のスポンサーシップ」前提 (4) 3mE / EEMCS の方針は未確認
+- 費用は6年で約€71,000(訂正済み)。ただし bench fee は「作業スペースと実験室利用」の対価で想定利用量に応じて決まり、**学部に免除の裁量がある**ため、完全リモートでの減免余地は照会する価値あり
 
 ### Reading(英国) — 完全リモートではない
 
@@ -111,8 +111,8 @@
 ## 次のアクション(優先度順)
 
 1. ~~York を個別調査~~ → **完了**(`labs/york.md`)。総合1位。残課題は**パートタイム学費レートの確認**(総額を左右する最重要項目)
-2. **TU Delft の居住要件・リモート可否**を確認。通れば費用面で圧倒的に有利
-3. **UOW の分野の受け皿**を確認。制度は最もクリーンなので、受け皿さえあれば有力
+2. ~~TU Delft の居住要件・リモート可否~~ → **一次調査完了**(`labs/tudelft.md`)。公式サイトで判断できる範囲は尽きた。残りは**照会案件**(3mE が外部PhDを受け入れるか、EU域外リモートが通るか)
+3. ~~UOW の分野の受け皿~~ → **完了**(`labs/uow.md`)。制度◎だが受け皿△。残課題は Decision Systems Lab のメンバー特定
 4. Twente / Eindhoven の External PhD を調査
 5. York・UTS・UOW・TU Delft への照会文面を作成(`contacts/`)。各校の未確認事項をまとめて投げる
 6. `research-theme/` のテーマ具体化。York・Swansea とも出願に研究提案書が要る
