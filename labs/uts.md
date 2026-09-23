@@ -15,6 +15,7 @@
 | 学費 | コースページ記載の course fee は **CS: A$198,543.42 / Engineering: A$215,274.49**。年額か総額かの明記がなく**要確認**(4年総額なら年 約A$50,000)。パートタイムは pro-rata で「年額 × 0.5」換算 |
 | 開始時期・締切 | 研究学位は通年出願可。奨学金選考は別途締切あり |
 | 事前手続き | 研究テーマを見つける → 指導教員候補と接触 → 出願、の6ステップ。指導教員の確保が前提 |
+| **学部事前審査(EoI)** | GRS の自動応答によれば「**faculty pre-assessment (EoI) process (if applicable)** を経ていない出願は審査されず閉じられる」。**FEIT に適用されるかは要確認**。適用される場合、出願プロセスが1段階増える |
 | 出典 | [PhD by distance](https://www.uts.edu.au/research/graduate/future-research-students/phd-distance) / [PhD by Distance(types)](https://www.uts.edu.au/research/graduate/future-research-students/types-research-degrees/phd-distance) / [PhD Computer Science](https://www.uts.edu.au/courses/doctor-of-philosophy-phd-thesis-computer-science) / [PhD Engineering](https://www.uts.edu.au/courses/doctor-of-philosophy-phd-thesis-engineering) / [Eligibility criteria](https://www.uts.edu.au/research-and-teaching/graduate-research/future-research-students/eligibility-criteria) / [Research student fees](https://www.uts.edu.au/for-students/admissions-entry/fees-costs/research-student-fees) |
 
 ### 在職可否の判定(重要・現時点では推定)
@@ -116,3 +117,15 @@ UTSは「distance × part-time」の組み合わせを1ページで明示して�
   4. 学費が年額か総額か(fee calculator で確認)
   5. 日本の修士(修士論文あり)が Masters by Research と同等に扱われるか
   6. Shoudong Huang / Fitch / Best の近年5年の論文における実機実験比率、リモート学生・パートタイム学生の指導実績
+  7. **FEIT に faculty pre-assessment (EoI) があるか**、ある場合の手順と時期
+
+### 照会時のメモ(2026-09-23)
+
+- GRS(grs@uts.edu.au)の**自動応答**で判明したこと:
+  - **学費に関する質問は GRS の管轄外**で「Ask UTS」へ回される。照会の質問3(コースフィーが年額か総額か)は別途 Ask UTS に投げ直す必要がある可能性が高い
+  - 出願に **faculty pre-assessment (EoI)** が必要な場合があり、これを欠く出願は審査されない
+  - GRS は「new HDR operating model」への移行中と記載があり(自動応答内の日付 2026-08-31〜09-11 は既に経過しており文面が更新されていないだけと思われる)、**通常より返信が遅れる可能性**
+- GRS には**メール以外の接触手段**がある。パートタイム可否のようにメールだと定型回答で終わりがちな質問は、口頭のほうが early に片付く可能性がある
+  - Zoom drop-in: 平日 15:00〜16:00 AEST
+  - Zoom コールバック依頼(grs@uts.edu.au 宛にリクエスト)
+  - 予約(7日先まで)、水曜の対面窓口
