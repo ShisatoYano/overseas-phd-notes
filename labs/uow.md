@@ -14,13 +14,13 @@ Swansea と似た「制度○・テーマ△」の形。ただし Swansea より
 |---|---|
 | リモート制度 | **HDR distance learning**。「候補者は希望する場所(オーストラリア国内または海外)でHDRを行える」。指導教員とはバーチャルに連絡 |
 | **在職可否** | **◎ 肯定形で明記**(全候補中で唯一)。「International candidates based overseas **do not need an Australian study visa so are eligible to undertake HDR studies part-time**, an option not available for onshore students」 |
-| **修業年限** | 未確認 |
+| **修業年限** | フルタイムで8セッション(=4年)が標準。パートタイムの上限は未確認 |
 | **在職要件** | 明示なし |
 | 対象学位 | **コースワークを含まない研究学位のみ**。PhD または MPhil(コースワーク分の advance standing がある場合) |
 | 研究内容の制約 | 「**Suitable only for research projects that do not require physical access to facilities based at UOW campuses**」= UOWキャンパスの施設への物理アクセスを必要としない研究のみ |
 | キャンパス出席 | 不要。在学中のオンキャンパス学生からの転換も申請可 |
-| 出願要件 | 未確認 |
-| 学費 | **未確認**。国際学生の学費は単位数(credit point)ベースで算定され、分野により異なる。[2026 International Tuition Fees 冊子](https://documents.uow.edu.au/content/groups/public/@web/@gov/documents/doc/uow273695.pdf)の Postgraduate Research の項を要確認 |
+| 出願要件 | **研究計画書が必須**(3〜4ページ。序論・先行研究・研究方法・期待される成果・参考文献)。**指導教員には出願前に打診するよう強く推奨**されている(必須ではない)。審査期間は6〜8週間。IELTS 等の英語要件は別ページ(未確認)。[出典: How to apply](https://www.uow.edu.au/research/graduate-research/future-students/how-to-apply/) |
+| 学費 | 2026年入学の PhD(**Computer Science / IT 区分**)は**1セッションあたり A$20,664 で、総額の目安は A$165,312**(8セッション)。フルタイムで年 A$41,328。Engineering 区分だと総額 A$191,424(1セッション A$23,928)。DSL は SCIT 所属なので CS 区分が該当する見込み。学費は入学年のレートが基準で、在学中に値上がりしうる。**パートタイムの課金方法(1セッションあたり半額で期間が倍になるのか)は冊子に記載がない**。[出典: 2026 International Tuition Fees 冊子](https://documents.uow.edu.au/content/groups/public/@web/@gov/documents/doc/uow273695.pdf) |
 | 事務窓口 | **School of Graduate Research and Research Culture**(旧称 Graduate Research School。2026-09時点でこの名称)。graduate-research-school@uow.edu.au |
 | 学部側の窓口 | Deputy Dean (Graduate Research), EIS: Senior Prof Huijun Li(ddgr-eis@uow.edu.au)。School of Computing and IT の Head of Postgraduate Studies: **Dr Steven Duong**(hoang_dung_duong@uow.edu.au)。[出典](https://www.uow.edu.au/research/graduate-research/current-students/faculty-contacts/) |
 | 出典 | [Higher Degrees by Research (UOW)](https://www.uow.edu.au/research/graduate-research/future-students/higher-degrees-by-research/) |
@@ -73,5 +73,5 @@ School of Computing and Information Technology と SMART Infrastructure Facility
 - 未確認事項(優先度順):
   1. **DSL のメンバー特定**。ページに個人名の掲載がない → School of Computing and IT の HPS(Dr Steven Duong)に照会するのが早い
   2. 学費(単位数ベース算定のため、研究学位の年額換算が必要)
-  3. 修業年限、出願要件、IELTS要求スコア
+  3. ~~修業年限、出願要件~~ → フルタイムの年限・出願要件・学費は公開資料で確認済み(2026-09-26)。残りはパートタイムの上限年限と課金方法、IELTS の要求スコア
   4. DSL / SMART が distance HDR の学生を受け入れた実績があるか

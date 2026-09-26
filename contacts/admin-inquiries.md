@@ -25,10 +25,11 @@
 | York(署名追補) | 同上(同一スレッド) | 2026-09-23 | | **送信済**(下記1-b) |
 | UTS | grs@uts.edu.au | 2026-09-23 | (自動応答のみ) | **返信待ち** |
 | TU Delft | 3mE Graduate School(宛先はユーザーが確認のうえ送信) | 2026-09-23 | | **返信待ち** |
-| UOW | graduate-research-school@uow.edu.au | 2026-09-23 | (自動応答のみ) | **返信待ち** |
+| UOW | graduate-research-school@uow.edu.au | 2026-09-23 | 2026-09-26 | **返信受領(定型文。質問1〜4いずれも未回答)** |
 | UOW(HPS) | ~~hoang_dung_duong@uow.edu.au~~ | 2026-09-23 | — | **不達(宛先不明)** |
-| UOW(EIS) | ddgr-eis@uow.edu.au | | | **保留**(GRSの返信待ち。下記6の差し替え版) |
-| Swansea | a.m.pauly@swansea.ac.uk | 2026-09-23 | | **返信待ち** |
+| UOW(EIS) | ddgr-eis@uow.edu.au | 2026-09-26 | | **返信待ち**(下記6) |
+| Swansea | a.m.pauly@swansea.ac.uk | 2026-09-23 | 2026-09-26 | **返信受領(質問1〜4すべてに回答あり)** |
+| Swansea(お礼・追加質問) | 同上(同一スレッド) | 2026-09-26 | | **返信待ち**(独立した個人研究の場合に勤務先との合意書が要るか) |
 
 署名はいずれも以下を想定(氏名以外はご自身で補う)。
 
@@ -339,6 +340,23 @@ Kind regards,
   - [出典: HDR faculty contacts](https://www.uow.edu.au/research/graduate-research/current-students/faculty-contacts/)
 - 事務は「high volume of enquiries」で遅延中
 
+### Swansea(2026-09-26、Admissions Tutor からの返信)
+
+質問1〜4のすべてに具体的に答えてくれた。詳細は `labs/swansea.md`。
+
+1. **開始時期**: Distance × パートタイムは10月・1月・4月開始。7月は設定されていないが、本人は設定漏れだろうとの見解。10月・1月・4月から選ぶのが無難
+2. **勤務先との関係**: 勤務先が支援する研究プロジェクトは総じて歓迎。ただし**勤務先との正式な合意書を強く推奨**。取り決めておくべき点は、(a) 勤務時間を研究に使える範囲、(b) 勤務先の設備を論文作業に使えるか、(c) **最重要は成果公開に勤務先がかける制限**。本人を守るための措置であり、学科としても勤務先の方針変更で学位取得の道筋が途切れないことを確かめたい
+3. **指導の条件**: EEE と同じ。大学規定で**指導教員との接触は最低月1回**(遠隔なら通常 Zoom、形式上はメールでも可)。ただし**実際には平均で週1回程度の面談が望ましい**。CS の研究は大半が専門設備を要しないので制約になりにくい。**物理的な設備が必要でも、勤務先が提供できるなら(上記の合意があれば)問題ない**
+4. **ATAS**: 本人は法務の専門家ではないとしたうえで、学生ビザの対象にならない以上不要だろうとの見解。訪英する場合は通常の短期滞在の扱いで、日本国籍なら査証も不要。いずれにせよ ATAS は大した手続きではない
+
+### UOW(2026-09-26、担当者からの返信)
+
+Candidature Management Officer からの返信。**中身は HDR の一般案内の定型文で、照会の質問1〜4にはどれも答えていない。**
+
+- 案内先は How to apply ページ(指導教員の探し方と打診、研究テーマと研究計画書、費用の見積もり、オンライン出願)と HDR Scholarship ページだけ。それ以上の質問は Future Students に回すよう書かれていた
+- distance・パートタイム・Decision Systems Lab のいずれにも触れておらず、**質問を読んだうえでの回答ではない**とみられる
+- → GRS はテンプレートを返す窓口と判断。**質問1(DSL のメンバー)と4(distance の前例)は下記6の EIS 宛で聞く。** 質問2(年限)と3(学費)は公開資料で確認した(`labs/uow.md`)
+
 ---
 
 ## 6. UOW(EIS Deputy Dean)— 指導教員の特定のみ
@@ -354,9 +372,9 @@ Kind regards,
 → **役職ベースのアドレスに切り替える**。`ddgr-eis@uow.edu.au` は個人名ではなく役職のメールボックスで、担当者が代わっても生きている。EIS 全体を統括する立場なので Computing and IT の件も扱える。
 
 **宛先**: ddgr-eis@uow.edu.au(Senior Professor Huijun Li, Deputy Dean (Graduate Research), Faculty of Engineering and Information Sciences)
-**状態**: **保留**。同じ質問1を GRS にも投げてあるため、まず GRS の返信を待つ。GRS が指導教員の件に答えられない、または返信が来ない場合に送る
+**状態**: **送信済(2026-09-26)**。GRS の返信(2026-09-26)が定型文で質問1に答えていなかったため送った。宛先アドレスは送信前に faculty contacts ページで再確認済み
 **位置づけ**: GRS の自動応答が HPS への連絡を明示的に誘導しているため、列を飛ばす行為にはあたらない。GRS が遅延中なので、**指導教員の特定だけ分けて出す**もの。年限・学費の事務的な質問は GRS 側に残す
-**送信日**: 2026-09-23
+**送信日**: 2026-09-26
 
 ```
 Subject: Distance HDR supervision in autonomous systems — School of Computing and IT

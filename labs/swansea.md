@@ -9,13 +9,13 @@
 | リモート制度 | Ph.D. Distance Learning(公式)。オンライン主体で、必要に応じてキャンパス出席 |
 | **在職可否** | **学科によって分かれる。CSは可(Distance × Part Time の組み合わせを公式提供)、EEEは不可(Distanceはフルタイムのみ)** |
 | **修業年限** | CS Distance: フルタイム3年 / **パートタイム6年**。EEE Distance: フルタイム3年のみ |
-| **在職要件** | Swansea のPGRプログラム共通記述に「doctoral researchers may pursue the programme either full time or part time by pursuing research **at an external place of employment** or with/at a University approved partner」とあり、**勤務先での研究実施が制度上想定されている**。CSページでの個別明記は未確認 |
+| **在職要件** | Swansea のPGRプログラム共通記述に「doctoral researchers may pursue the programme either full time or part time by pursuing research **at an external place of employment** or with/at a University approved partner」とあり、**勤務先での研究実施が制度上想定されている**。**CS でも同様で、勤務先が支援する研究は歓迎**(2026-09-26 Admissions Tutor 回答)。ただし**勤務先との正式な合意書が強く推奨**される(勤務時間の充当、設備利用、**成果公開の制限**) |
 | 対象学部・学科 | Computer Science / EEE / Aerospace ほか多数(Physics, Chemistry, Biosciences, Education, Politics, Finance 等) |
-| 出願要件(CS) | 学部2.1相当(CS/数学/近接分野)または Merit 以上の修士。IELTS 6.5(各項目6.0以上)。非UK/EU出願者は ATAS クリアランス必須 |
+| 出願要件(CS) | 学部2.1相当(CS/数学/近接分野)または Merit 以上の修士。IELTS 6.5(各項目6.0以上)。非UK/EU出願者は ATAS クリアランス必須と公式ページにはあるが、**学生ビザの対象にならない distance 生には不要との見解**(Admissions Tutor 回答。本人いわく法務は専門外) |
 | 出願要件(EEE) | 学部2.1相当(工学/関連科学)。IELTS 6.5(各項目5.5以上)。推薦状1通。ATAS必須 |
 | 学費(CS・1年目) | フルタイム: UK £5,238 / 国際 £23,650。**パートタイム: UK £2,619 / 国際 £11,800**。2年目以降は年3%値上げ |
 | 学費(EEE・1年目) | フルタイム: UK £5,238 / 国際 £25,000 |
-| 開始時期 | CS: 10月/1月/4月/7月(Distance は一部開始時期が限定されるとの注記あり、要確認)。EEE: 同じく年4回 |
+| 開始時期 | CS: 10月/1月/4月/7月。**Distance × パートタイムは10月/1月/4月**(7月は設定漏れの可能性があるが、避けるのが無難。2026-09-26 回答)。EEE: 同じく年4回 |
 | 締切 | EEE 10月入学の国際出願は7月15日。CSは個別確認が必要 |
 | 事前手続き | 正式出願前に Research Proposal Form を作成し担当者に相談。CS窓口: Dr Arno Pauly (a.m.pauly@swansea.ac.uk)、EEE窓口: engineering@swansea.ac.uk |
 | 出典 | [CS PhD 全モード一覧](https://www.swansea.ac.uk/postgraduate/research/maths-comp-sci/computer-science/phd-mphil-msc-by-research-computer-science/) / [CS Distance](https://www.swansea.ac.uk/postgraduate/research/maths-comp-sci/computer-science/phd-computer-science-distance-learning/) / [EEE Distance](https://www.swansea.ac.uk/postgraduate/research/aerospace-civil-electrical-mechanical-engineering/electrical/phd-electronic-and-electrical-engineering-distance-learning/) / [Aerospace Distance](https://www.swansea.ac.uk/postgraduate/research/aerospace-civil-electrical-mechanical-engineering/aerospace/phd-aerospace-engineering-distance-learning/) |
@@ -31,6 +31,8 @@
   - 研究拠点で郵便・配送サービスが利用できること
   - 研究は商用ソフト・OSS・自作ソフトを用いること(=実験室作業を含まないテーマであること)
 - → 「月1回の面談」は在職でも十分こなせる頻度。**制度面のボトルネックは年限でも面談頻度でもなく、テーマが完全にソフトウェア/計算で完結するか**という点にある。既存方針(シミュレーション中心)はこの要件と正確に一致している。
+- 【2026-09-26 回答で確定】CS にも EEE と同じ指導条件が適用される: **大学規定で最低月1回**の接触、ただし**実際には平均で週1回程度の面談が望ましい**。一方「実験室作業を含まないこと」は CS ではほぼ問題にならず、**必要な設備を勤務先が提供できるなら(合意書があれば)可**。EEE の文面より緩い。ただし勤務先リソースは使わない合意なので、この選択肢は使わない
+  - 週1回の面談は時差の影響を受ける(英国と日本の差は夏時間で8時間、冬時間で9時間)。英国の午前は日本の夕方にあたるので、勤務後に Zoom をつなぐ形は現実的
 - Distance PhD は「通学生と同一のプログラム」であり、指導は既存の研究グループ経由。**受け入れ可否は制度ではなく、該当分野の指導教員が見つかるかで決まる**。
 
 ## 研究室 / 教授
@@ -119,7 +121,7 @@ Intelligent Robotics グループ(Cafolla ら)は**実機ラボ主体**(Bay Camp
 - 出願プロセスがプロポーザル先行型なので、この翻訳作業はいずれにせよ避けられない。`research-theme/` でのテーマ具体化が Swansea 攻略の前提条件になる。
 - 優先コンタクト順: **Caraffini → Rahat**(いずれもCS所属)。Jiffri は Aerospace の在職可否が確認できた場合のみ。
 - 未確認事項:
-  - CS の Distance × Part Time で、開始時期が限定されるか
-  - CS ページでの「external place of employment」明記の有無、勤務先の同意書等の要否
+  - ~~CS の Distance × Part Time で、開始時期が限定されるか~~ → 10月/1月/4月(2026-09-26 回答)
+  - ~~勤務先の同意書等の要否~~ → 必須ではないが正式な合意書を強く推奨(2026-09-26 回答)。勤務先とは「共同プロジェクトにしない・勤務先リソースは使わない・テーマは自由」で合意済み(`misc/remote-phd-feasibility.md` 追記4)。**独立した個人研究として合意書が要るかを確認中**
   - Aerospace Distance PhD のパートタイム可否
   - Caraffini / Rahat にパートタイム学生の指導実績があるか
