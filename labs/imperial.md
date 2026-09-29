@@ -105,3 +105,48 @@ Attendance requirements(2009年 Senate 承認):
   1. PRI・Split を使わずに、日本拠点のパートタイムを個別に認める余地があるか(事務照会)
   2. Split PhD をパートタイムと組み合わせられるか
   3. 平和中島財団の対象になるか(締切 2026-10-30)
+
+## 参照リンク集
+
+公式サイトを読み直すための一覧(2026-09-29 作成)。本文を開いて確認済みなのは ✓ の2つのみで、それ以外は調査中に集めたリンク(移動・リンク切れの可能性あり)。
+
+### まず読むページ
+
+- [PhD](https://www.imperial.ac.uk/study/apply/postgraduate-doctoral/application-process/choose-course/phd/): 博士課程の概要。パートタイム5〜6年の記載あり
+- [PRI scheme](https://www.imperial.ac.uk/study/apply/postgraduate-doctoral/application-process/choose-course/pri-scheme/): 勤務先を研究拠点にする制度
+- [Split PhD](https://www.imperial.ac.uk/study/apply/postgraduate-doctoral/application-process/choose-course/split-phd/): 日本側の機関と分担する制度
+
+### 規程・来校要件(PDF)
+
+- ✓ [MPhil/PhD Regulations 2024/25](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/regulations/2024-25/MPhil_PhD_Regulations_2024_25-v1.0.pdf): 35条が「研究の大半は大学で」の根拠
+- ✓ [Attendance requirements for research degrees](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/attendance-requirements-for-pgr/Attendance-requirements-for-research-degrees.pdf): パートタイムは年40日以上(2009年版)
+- [PRI procedures v1.7](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/pri-split-phd-irl/PRI_procedures_v1.7_updated-Aug25.pdf): PRI の承認手続き(2025年8月更新)
+- [承認済み PRI 一覧(2024年3月)](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/pri-split-phd-irl/Partner-Research-Institute-list---March-2024.pdf)
+- [External Study Leave ガイドライン](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/attendance-requirements-for-pgr/Guidelines-for-research-students-undertaking-External-Study-Leave-Jan25.pdf): 学外で研究する期間の扱い
+
+### 学費・奨学金
+
+- [研究課程の学費 2026-27(工学部)](https://www.imperial.ac.uk/students/fees-and-funding/tuition-fees/postgraduate-tuition-fees/2026-27/postgraduate-research-programmes/faculty-of-engineering/)
+- [学費の分割払い](https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/payment-terms/instalments/)
+- [President's PhD Scholarships](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/)
+- [外部奨学金の一覧](https://www.imperial.ac.uk/study/fees-and-funding/other-funding-sources/external-scholarships/)
+- [Computing 学科の奨学金](https://www.imperial.ac.uk/engineering/departments/computing/prospective-students/courses/phd/scholarships/)
+
+### 出願要件・学科ページ
+
+- [EEE の PhD](https://www.imperial.ac.uk/electrical-engineering/study/phd/): 出願要件・開始時期
+- [Computing の PhD FAQ](https://www.imperial.ac.uk/engineering/departments/computing/prospective-students/courses/phd/faqs/): 2027年入学の出願は2026年10月開始
+- [Civil Engineering の PhD FAQ](https://www.imperial.ac.uk/civil-engineering/prospective-students/phd-postgraduate-research/faqs/): パートタイムの明記あり
+- [英語要件](https://www.imperial.ac.uk/study/apply/english-language/)
+
+### ビザ・ATAS
+
+- [ビザと入国管理](https://www.imperial.ac.uk/students/international-students/visas-and-immigration/)
+- [Visitor として渡英する場合](https://www.imperial.ac.uk/students/international-students/visas-and-immigration/coming-to-the-uk-as-a-visitor/)
+- [ATAS](https://www.imperial.ac.uk/students/international-students/visas-and-immigration/atas/): 日本国籍は免除
+
+### 研究室
+
+- [EEE Control and Power グループ](https://www.imperial.ac.uk/electrical-engineering/research/control-and-power/)
+- [Transport Systems & Logistics Lab](https://transport-systems.imperial.ac.uk/)
+- [Computing のロボティクス研究](https://www.imperial.ac.uk/computing/research/robotics/)

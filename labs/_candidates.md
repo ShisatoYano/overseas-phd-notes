@@ -246,6 +246,9 @@ A = 日本拠点で研究可(現地滞在合計12か月以内) / B = パート�
 3. ~~UOW の分野の受け皿~~ → **完了**(`labs/uow.md`)。制度◎だが受け皿△。残課題は Decision Systems Lab のメンバー特定
 4. ~~Twente / Eindhoven の External PhD を調査~~ → **一次調査完了**(2026-09-28 追加の節)。どちらも自費の外部PhDを明記。残課題は日本在住のまま進められるかの確認
 5. York・UTS・UOW・TU Delft への照会文面を作成(`contacts/`)。各校の未確認事項をまとめて投げる
-6. `research-theme/` のテーマ具体化。York・Swansea とも出願に研究提案書が要る
-7. 【2026-09-28 追加】ランキング上位校の有望校を個別調査(`labs/<大学名>.md`)。優先度は Warwick (WMG) → Southampton → TU/e → Cambridge → Bristol → Aalto → ANU → Twente
+6. `research-theme/` のテーマ具体化。York・Swansea とも出願に研究提案書が要る。【2026-09-29 決定】**個別調査と並行して進める**。指導教員候補が分かった大学から、その研究に合わせてテーマを詰める
+7. 【2026-09-28 追加】ランキング上位校の有望校を個別調査(`labs/<大学名>.md`)
+   - 【2026-09-29 決定】**第1陣は Warwick (WMG)・Southampton・TU/e・Cambridge の4校**。規程の原文で判定を固め、学科が遠隔を受け入れるか・パートタイム学費・指導教員候補・出願締切まで確認する
+   - Bristol・Aalto・ANU・Twente は第2陣。いずれも大学への照会で決まる論点が中心なので、第1陣の後に事務照会でまとめて確認する
+   - 第1陣で残った大学へ事務照会を送る(`contacts/admin-inquiries.md`)
 8. 【2026-09-28 追加】年40日〜数週間の渡英に必要な休暇を、勤務先に確認する
