@@ -423,6 +423,527 @@ Thank you for your time.
 Kind regards,
 ```
 
+## 7. 催促(返信待ちの5校)
+
+作成日: 2026-10-02
+
+**方針**
+- 送信から2週間たっても返事がないものに、**一度だけ**送る。それでも返事がなければ「回答が得られなかった」と記録し、判断材料から外す
+- 元のメールへの返信として同じスレッドで送り、質問を繰り返さない(相手が元のメールを探さなくて済むように、質問の数だけ書き添える)
+- 返事が遅いことを責める書き方はしない。事務窓口が混んでいることは UTS・UOW の自動応答で分かっている
+
+| 大学 | 元の送信日 | 催促の目安 | 備考 |
+|---|---|---|---|
+| York | 2026-09-23 | 2026-10-07 | 1-b の署名追補と同じスレッド |
+| UTS | 2026-09-23 | 2026-10-07 | 返事がなければ、自動応答にあった Zoom drop-in(平日15-16時 AEST)を使う |
+| TU Delft | 2026-09-23 | 2026-10-07 | |
+| UOW(EIS) | 2026-09-26 | 2026-10-10 | |
+| Swansea(追加質問) | 2026-09-26 | 2026-10-10 | 本質問には回答済み。追加質問は1点だけなので、催促しなくてもよい |
+
+### 7-a. York・TU Delft・UOW(EIS)用(共通)
+
+```
+Subject: Re: <元の件名>
+
+Dear <元のメールと同じ宛名>,
+
+I am writing to follow up on my enquiry below, sent on <送信日>. I
+appreciate that this is a busy time of year, and I would be grateful
+for any answers you are able to give to the <N> questions it raises,
+or for a pointer to a more appropriate contact if this enquiry should
+go elsewhere.
+
+Kind regards,
+
+Shisato Yano
+Software engineer (autonomous driving / vehicle control), based in Japan
+GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+```
+
+- `<N>`: York は5、TU Delft は5、UOW(EIS)は2
+
+### 7-b. UTS 用
+
+自動応答で、学費の質問(質問3)は GRS の管轄外と分かっている。質問3は自分で外し、残りの4問に絞ったことを伝える。
+
+```
+Subject: Re: PhD by distance — part-time enrolment and FEIT availability
+
+Dear Graduate Research School,
+
+I am writing to follow up on my enquiry below, sent on 23 September.
+Your automatic reply noted that fee questions are handled by Ask UTS,
+so please disregard question 3; I will raise it there.
+
+I would still be grateful for guidance on the other four questions,
+particularly question 1 (whether the PhD by distance can be undertaken
+part-time from outside Australia) and question 2 (whether it is
+available through the Faculty of Engineering and IT).
+
+Kind regards,
+
+Shisato Yano
+Software engineer (autonomous driving / vehicle control), based in Japan
+GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+```
+
+### 7-c. Swansea 用(10/10 時点で返事がなければ)
+
+```
+Subject: Re: PhD Computer Science (Distance Learning, part-time) — enquiry before proposal
+
+Dear Dr Pauly,
+
+A brief follow-up to my message of 26 September. There is no urgency,
+but if you have a moment, I would be grateful for your view on the one
+remaining point: whether a formal agreement with my employer would
+still be expected if the research were entirely independent of my
+employment.
+
+Kind regards,
+
+Shisato Yano
+```
+
+---
+
+## 8〜13. 第1陣の照会: Tier S の6校(2026-10-02 作成)
+
+`misc/todo.md` の 1-2。答え次第で候補から外れる、または費用が大きく変わる点だけを聞く。宛先と引用した文言は 2026-10-02 に公式ページで確認した(出典は各節)。
+
+**6校に共通する書き方**
+- 冒頭で「日本在住・フルタイム勤務・自費・研究はシミュレーション中心」と立場を示す
+- **ビザ論法を先に示す**(方針どおり)。学生ビザを取らず、渡航は短期の訪問だけになることを書いてから質問する
+- **勤務先との合意書については、可否ではなく「何が求められるか」を聞く。** 勤務先との取り決めは進学先が決まってから相談し直すので(2026-10-01 の決定)、照会の段階で「勤務先は署名しない」とは書かない
+- TU/e・Aalto・MUN は、実質的な窓口が指導教員(または事前審査をしない)。「指導教員に連絡する前に、制度で外れないかを確かめたい」という位置づけを明示し、質問を絞る
+- 署名を必ず付ける(York で付け忘れた反省)
+
+**送る順番**(2026-10-02 決定)
+- 1日目: TU/e・NTNU・Plymouth(答え次第で外れる可能性が高い、または第1候補)
+- 2日目: Aalto(ELEC と ENG)・MUN・Flinders
+
+| # | 大学 | 宛先 | 状態 |
+|---|---|---|---|
+| 8 | TU/e | secretariat.dc@tue.nl | 下書き |
+| 9 | NTNU | postmottak@itk.ntnu.no(cc: berit.dahl@ntnu.no, lill.hege.pedersen@ntnu.no) | 下書き |
+| 10 | Plymouth | doctoralcollege@plymouth.ac.uk(cc: researchdegreeadmissions@plymouth.ac.uk) | 下書き |
+| 11 | Aalto(ELEC) | doctoral-sci-elec@aalto.fi | 下書き |
+| 11-b | Aalto(ENG) | kitta.peura@aalto.fi, reetta.mannola@aalto.fi | 下書き |
+| 12 | MUN | engrdoffice@mun.ca | 下書き |
+| 13 | Flinders | hdr.admissions@flinders.edu.au(cc: gradresearch@flinders.edu.au) | 下書き |
+
+---
+
+## 8. TU/e — 第1候補。学費減免と日本在住の前例
+
+**宛先**: secretariat.dc@tue.nl(Mechanical Engineering の Dynamics & Control グループの事務局)
+**宛先の理由**: TU/e には PhD 出願の全学窓口が公開されていない。学費は「confirmed during the application process by the department's HR services」、減免の申請は「submitted by the (intended) promotor」とされ、学科と指導教員が窓口になる。van de Wouw の所属するグループの事務局に送り、学科の PhD 担当へ回してもらう
+**狙い**: 日本在住・在職の外部 PhD を受け入れるか。減免の見込み(6年の総額が €0〜42k のどこになるか)
+**出典**: [How to become a PhD candidate](https://www.tue.nl/en/education/graduate-school/phd-at-tue/how-to-become-a-phd-candidate) / [Doctoral Regulations Nov 2025](https://assets.w3.tue.nl/w/fileadmin/content/Our_University/Werken%20bij/TUe%20Doctoral%20regulations%202025%20-%20incl%20DMP.pdf) / [Dynamics and Control](https://www.tue.nl/en/research/research-groups/dynamics-and-control)
+
+```
+Subject: Self-funded external PhD candidate based in Japan — enquiry before contacting a supervisor
+
+Dear Secretariat of the Dynamics and Control Group,
+
+I am a software engineer based in Japan, working in autonomous driving
+and vehicle control. I am considering a self-funded external PhD at
+TU/e in the area of cooperative and autonomous driving (motion
+planning and control), which I would pursue part-time and entirely
+through simulation, while remaining in full-time employment in Japan.
+
+I understand that the first step is to find a TU/e professor willing
+to supervise the research. Before I approach a potential supervisor,
+I would like to check that the arrangement is possible in principle.
+If these questions are better answered by the department's PhD or HR
+services, I would be grateful if you could forward this message.
+
+1. Does the Department of Mechanical Engineering accept self-funded
+   external PhD candidates who live outside the Netherlands and remain
+   in full-time employment elsewhere? Are there precedents of
+   candidates based outside Europe?
+
+2. The 2026 tuition fee for self-funded external candidates is
+   EUR 7,000 per year, and a waiver may be requested by the intended
+   promotor, for example where the candidate is "not working fulltime
+   on the PhD trajectory" or "not using the campus facilities or
+   labs". Both would apply to me. In practice, are such waivers
+   usually full or partial?
+
+3. Is there a maximum duration for a part-time external PhD, and is
+   the annual fee charged for every year until the defence?
+
+4. Apart from the defence, which takes place on campus (Article 22 of
+   the Doctoral Regulations), is physical presence required at any
+   other point, such as a go/no-go assessment? I would be able to
+   visit Eindhoven for short periods; as a Japanese citizen, I can
+   stay in the Schengen area for up to 90 days without a visa.
+
+Thank you for your time.
+
+Kind regards,
+
+Shisato Yano
+Software engineer (autonomous driving / vehicle control), based in Japan
+GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+```
+
+---
+
+## 9. NTNU — 分野は最も合う。在職のまま時間要件を満たせるか
+
+**宛先**: postmottak@itk.ntnu.no(Department of Engineering Cybernetics の受付アドレス)。cc に PhD 事務担当の berit.dahl@ntnu.no と lill.hege.pedersen@ntnu.no
+**狙い**: フルタイム勤務のまま、時間要件(勤務時間の50%以上を研究に充てる)と3者間の合意書をどう扱うか。成り立たなければ NTNU は外れる
+**確認した規程**
+- 出願ページ: 「at least 50 per cent of the working hours during the doctoral degree programme are available for research education, cf. the PhD agreement. Normally, a minimum of 80 per cent of the working hours during one year must be allocated to full-time studies」「must have a minimum gross income of NOK 17,000 per month」
+- PhD 規程(2026-02-03)§6-3: NTNU に雇用されていない人は「a total of one year or more」の滞在が要る。§7-1: 「The maximum admission period is a net period of six (6) years」。§7-2: 外部から資金・雇用・その他の貢献を受ける場合は3者間の合意書
+- 工学部の補足規程(2025-10-05): 「In general, reductions in the residency requirement at NTNU are not granted」。ただし複数回に分けて満たせる
+- → 50%で研究すると正味3年分に6年かかり、上限ちょうどで余裕がない
+**出典**: [Apply and admission](https://www.ntnu.edu/studies/phtk/apply-and-admission) / [PhD regulations 2026-02-03](https://www.ntnu.edu/documents/1263185004/1285991844/NTNU+PhD-regulations+updated+20260203+(1).pdf/b9ab638d-5d97-b2bc-ab17-5a20ff1ceac0?t=1778059527861) / [工学部の補足規程](https://www.ntnu.edu/documents/1263185004/1285991844/Revidert+utfyllende+bestemmelser+i+ph.d.+forskriften_ENGELSK+05.10.25.pdf/9d394d01-0b39-0cca-df85-41a10fdc2604?t=1763989511222)
+
+```
+Subject: PhD in Engineering Cybernetics — self-funded candidate in full-time employment in Japan
+
+Dear PhD Administration, Department of Engineering Cybernetics,
+
+I am a software engineer based in Japan, working in autonomous driving
+and vehicle control. My research interests are guidance, navigation
+and control, motion planning and state estimation for autonomous
+vehicles, including marine vessels, which I would pursue through
+simulation. I am considering applying for the PhD in Engineering
+Cybernetics with my own funds, while remaining in full-time
+employment in Japan.
+
+Before I approach a potential supervisor, I would like to understand
+how the admission requirements would apply to my situation:
+
+1. The admission page states that at least 50 per cent of the working
+   hours during the programme must be available for research
+   education, and that normally a minimum of 80 per cent of the
+   working hours during one year must be allocated to full-time
+   studies. For a candidate in full-time employment who would carry
+   out the research outside working hours, how is this requirement
+   assessed? Does it require the employer to formally allocate
+   working time to the PhD?
+
+2. Section 7-2 of the PhD regulations requires a separate agreement
+   between the candidate, NTNU and the external party where the
+   candidate is employed by an external party. If my employer would
+   provide no funding, time or other contribution, and the research
+   would be independent of my employment, what would the employer be
+   expected to commit to in this agreement?
+
+3. I understand that the residency requirement of one year may be
+   fulfilled by accumulating several periods. Would it be acceptable
+   to complete it in, for example, three or four stays of three to
+   four months each over the course of the programme?
+
+4. The maximum admission period is a net period of six years. If the
+   research were carried out at 50 per cent, would an extension
+   beyond six years be possible?
+
+5. My own funds would come from my salary in Japan, which exceeds the
+   minimum gross income of NOK 17,000 per month. What documentation
+   of funding would be accepted for this?
+
+Thank you for your time.
+
+Kind regards,
+
+Shisato Yano
+Software engineer (autonomous driving / vehicle control), based in Japan
+GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+```
+
+---
+
+## 10. Plymouth — 船舶系で最安級。来校と現地指導者の条件
+
+**宛先**: doctoralcollege@plymouth.ac.uk(出願前の質問の窓口)。学費の質問を含むので、cc に researchdegreeadmissions@plymouth.ac.uk(学費の窓口)
+**狙い**: 年6週の来校が現行でも必須か、日本側の現地指導者の資格要件、海外研究の料金を受けられるか
+**前提**: 2026-10-02 時点で、日本側で現地指導者を頼めそうな人はいない。→ 質問3では資格要件に加えて、大学が探すのを手伝うか、現地指導者なしの代替策があるかを聞く。**現地指導者が必須で代替策もなければ、Plymouth は外れる**
+**確認したこと**
+- 2026-27年の料金表: 「Research carried out overseas (MPhil/PhD/MD only) Band 2」の PT 国際料金は £4,830。対象者の条件は書かれていない
+- 料金表の注記: 2024-08-01以降に入学する PT は、writing-up に入る前に「registered at least 6 years PT for PhD」。一方 PhD Robotics のページは「you will pay part time fees for four years」で、食い違っている
+- PhD Mechanical Engineering のページ: 「Remote supervision of overseas students is possible subject to identification of a supervisor local to the candidate」(Robotics のページにはこの文はない)
+- 年6週の来校は2017年版の Code of Practice にしかなく、現行の Handbook はログインが要る
+- 2026-27 Fees Policy: 英国外から在籍する場合、居住国の sales tax を上乗せすることがある
+**出典**: [PGR fees 2026-27](https://www.plymouth.ac.uk/study/fees/tuition-fees-for-postgraduate-research-students-2026-27) / [PhD Mechanical Engineering](https://www.plymouth.ac.uk/courses/postgraduate/phd-mechanical-engineering) / [Research degree awards](https://www.plymouth.ac.uk/study/postgraduate/research-degree-awards)
+
+```
+Subject: Part-time PhD with research carried out overseas (Japan) — attendance, local supervisor and fees
+
+Dear Doctoral College Admissions Team,
+
+I am a software engineer based in Japan, working in autonomous driving
+and vehicle control. I am interested in a part-time PhD in the School
+of Engineering, Computing and Mathematics, in the area of marine
+autonomy (navigation, guidance and control of autonomous vessels),
+pursued through simulation. I would carry out the research in Japan
+while remaining in full-time employment there. I would not apply for
+a Student visa; any visits to Plymouth would be short.
+
+Before I contact a potential supervisor, I would be grateful for
+clarification on the following:
+
+1. The 2026-27 fee table lists a part-time international rate of
+   GBP 4,830 per year for "Research carried out overseas" (Band 2).
+   Would a part-time candidate living and researching in Japan, as
+   described above, be eligible for this rate?
+
+2. Earlier versions of the Research Degrees Code of Practice required
+   candidates conducting their research mainly overseas to spend at
+   least six weeks a year at the University. Is this still the
+   current requirement?
+
+3. The PhD Mechanical Engineering page states that remote supervision
+   of overseas students is possible "subject to identification of a
+   supervisor local to the candidate". What qualifications must the
+   local supervisor have, and must they hold a doctorate? At present I
+   do not have a suitable person in Japan in mind. Does the University
+   help candidates identify a local supervisor, or are there
+   alternative arrangements where none is available?
+
+4. The fee table notes that part-time PhD students starting on or
+   after 1 August 2024 must be registered for at least six years
+   before writing up, while the PhD Robotics page states that
+   part-time students pay part-time fees for four years. Which
+   applies?
+
+5. The Fees Policy notes that a sales tax at the local rate may be
+   added for students studying from outside the UK. Would this apply
+   to a student resident in Japan?
+
+Thank you for your time.
+
+Kind regards,
+
+Shisato Yano
+Software engineer (autonomous driving / vehicle control), based in Japan
+GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+```
+
+---
+
+## 11. Aalto(ELEC)— 学費ゼロ。居住の最低期間
+
+**宛先**: doctoral-sci-elec@aalto.fi(Doctoral Programme in Electrical Engineering の出願窓口。School of Science と共用)
+**宛先の理由**: 制御・ロボット・自律システムは ELEC、自律船は ENG(Marine Technology)。研究テーマを車両系と船舶系のどちらに寄せるかはまだ決めていない(`misc/todo.md` 2-2)ので、**両方に送る**(2026-10-02 決定)。同じ大学の別の窓口に同じ質問を送ることになるので、両方の文面に「もう一方にも送っている」と明記し、回答が重複してもよいことを示す。居住の文言は両プログラムで同じ
+**狙い**: 「reside in Finland at least part of the study time」の最低期間。12か月以内に収まるか
+**確認したこと**
+- 「It is also possible to start pursuing doctoral studies without funding (part-time doctoral studies). In this case, please contact the potential supervising professor directly. Note that to pursue the degree, you need to reside in Finland at least part of the study time.」→ 月数は書かれていない。資金なしの PT は指導教員に直接連絡するよう案内されているので、質問は居住の1点に絞る
+- 勤務先の承認書が要るのは「Full-time students working outside of Aalto University」だけ
+- 「Aalto University doctoral studies are free of tuition fees」。ELEC の出願は通年(2026-12-01まで、7月は処理しない)
+**出典**: [Aalto Doctoral Programme in Electrical Engineering](https://www.aalto.fi/en/study-options/aalto-doctoral-programme-in-electrical-engineering) / [Aalto Doctoral Programme in Engineering](https://www.aalto.fi/en/study-options/aalto-doctoral-programme-in-engineering)
+
+```
+Subject: Part-time doctoral studies without funding — residence requirement for a candidate based in Japan
+
+Dear Doctoral Programme in Electrical Engineering Admissions Team,
+
+I am a software engineer based in Japan, working in autonomous driving
+and vehicle control, with research interests in motion planning,
+control and state estimation for autonomous vehicles. I am considering
+part-time doctoral studies without funding, while remaining in
+full-time employment in Japan.
+
+I understand that for part-time doctoral studies I should contact a
+potential supervising professor directly, and I intend to do so. Before
+that, I would like to check one point about eligibility. The programme
+page notes that "to pursue the degree, you need to reside in Finland
+at least part of the study time".
+
+1. Is there a minimum length for this period of residence?
+
+2. Could it be fulfilled through several shorter stays rather than one
+   continuous period? As a Japanese citizen, I can stay in the
+   Schengen area for up to 90 days without a residence permit.
+
+3. I understand that an employer's approval document is required only
+   for full-time students working outside Aalto. Could you confirm
+   that it is not required for a part-time student?
+
+As my interests span both programmes, I am sending the same questions
+to the Aalto Doctoral Programme in Engineering. Please feel free to
+leave them to whichever office is more appropriate.
+
+Thank you for your time.
+
+Kind regards,
+
+Shisato Yano
+Software engineer (autonomous driving / vehicle control), based in Japan
+GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+```
+
+---
+
+### 11-b. Aalto(ENG)
+
+**宛先**: kitta.peura@aalto.fi(planning officer)、reetta.mannola@aalto.fi(coordinator)。ENG の Contact information ページで、どちらも「applications for doctoral studies」の担当として載っている。役職のアドレスがないので、2人を並べて宛先にする
+**ENG 固有の点**: PT は「Their studies are planned in such a way that the time spent on doctoral studies is eight years or less」。出願は年4回で、今期は 2026-06-03〜2026-11-03
+**出典**: [ENG Contact information](https://www.aalto.fi/en/programmes/aalto-doctoral-programme-in-engineering/contact-information) / [Aalto Doctoral Programme in Engineering](https://www.aalto.fi/en/study-options/aalto-doctoral-programme-in-engineering)
+
+```
+Subject: Part-time doctoral studies without funding — residence requirement for a candidate based in Japan
+
+Dear Doctoral Education Services, Aalto Doctoral Programme in Engineering,
+
+I am a software engineer based in Japan, working in autonomous driving
+and vehicle control, with research interests in guidance, navigation
+and control of autonomous vehicles, including autonomous ships. I am
+considering part-time doctoral studies without funding, while
+remaining in full-time employment in Japan.
+
+I understand that for part-time doctoral studies I should contact a
+potential supervising professor directly, and I intend to do so. Before
+that, I would like to check one point about eligibility. The programme
+page notes that "to pursue the degree, you need to reside in Finland
+at least part of the study time".
+
+1. Is there a minimum length for this period of residence?
+
+2. Could it be fulfilled through several shorter stays rather than one
+   continuous period? As a Japanese citizen, I can stay in the
+   Schengen area for up to 90 days without a residence permit.
+
+3. Is a statement from my employer required for part-time doctoral
+   studies?
+
+As my interests span both programmes, I am sending the same questions
+to the Aalto Doctoral Programme in Electrical Engineering. Please feel
+free to leave them to whichever office is more appropriate.
+
+Thank you for your time.
+
+Kind regards,
+
+Shisato Yano
+Software engineer (autonomous driving / vehicle control), based in Japan
+GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+```
+
+---
+
+## 12. MUN — 船舶系で最安。学外で居住要件を満たせるか
+
+**宛先**: engrdoffice@mun.ca(Faculty of Engineering and Applied Science の Graduate Office。2026-04-22更新の Contact us で確認)
+**注意**: FAQ に「We do not provide one-on-one pre-assessment for MEng and PhD applications」「Admission is conditional on acceptance of a faculty member as supervisor」とある。**経歴の評価は頼まず、制度の質問だけにする**
+**狙い**: 3学期の居住要件を、学外(日本)のまま Dean の承認で満たせるか
+**確認したこと**
+- Calendar 4.3.5: 「each student for a Ph.D. … shall normally spend at least three semesters in residence」。ただし「it is possible therefore that the residency requirement may be satisfied in an off campus location. In such cases the Dean of Graduate Studies must be satisfied that the attributes are met」。在籍の上限は「seven years beyond first registration」
+- Calendar 44.12: 工学の PhD は「may be obtained either through full-time or part-time studies」。comprehensive exam は口頭試問で「open to the University community」、通常は4学期以内
+- 学費(2026-08-19更新): 博士の国際学生は Program Cost CA$17,988(12学期で分割)、その後は1学期 CA$1,466 の continuance fee。→ **前回のメモの CA$26.8k は誤り。** PT で6〜7年なら約 CA$27〜31k(推定)
+**出典**: [Contact us](https://www.mun.ca/engineering/graduate/contact-us/) / [FAQ](https://www.mun.ca/engineering/graduate/faq-for-prospective-research-students/) / [Calendar 4.3](https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/4/3/) / [Calendar 44.12](https://www.mun.ca/university-calendar/school-of-graduate-studies/school-of-graduate-studies/44/12/) / [Graduate tuition](https://www.mun.ca/finance/graduate-student-tuition-and-fees/)
+
+```
+Subject: Part-time PhD in Engineering from outside Canada — residency requirement
+
+Dear Engineering Graduate Office,
+
+I am a software engineer based in Japan, working in autonomous driving
+and vehicle control. I am interested in the PhD in Engineering on a
+part-time basis, in the area of autonomous marine vehicles (state
+estimation, navigation and control), pursued through simulation. I
+would remain in full-time employment in Japan and would not apply for
+a study permit; any visits to St. John's would be short.
+
+I understand that admission depends on a faculty member agreeing to
+supervise, and that the Faculty does not offer pre-assessments, so I
+am not asking for an evaluation of my background. I would be grateful
+for clarification on a few procedural points:
+
+1. Section 4.3.5 of the Graduate Calendar states that the residency
+   requirement of three semesters "may be satisfied in an off campus
+   location" if the Dean of Graduate Studies is satisfied that the
+   required attributes are met. Has this been approved for part-time
+   PhD candidates in Engineering who live outside Canada? If so, what
+   would normally need to be shown, for example regular online
+   meetings with the supervisor and participation in the research
+   group?
+
+2. Is the part-time PhD route in Engineering open to international
+   candidates who live outside Canada throughout the programme?
+
+3. Can the comprehensive examination and the thesis proposal
+   presentation be taken online, or is attendance in person required?
+
+4. For doctoral students, the tuition page lists a program cost of
+   CAD 17,988 paid over 12 semesters, followed by a continuance fee
+   for each additional semester. Does the same structure apply to
+   part-time doctoral students?
+
+Thank you for your time.
+
+Kind regards,
+
+Shisato Yano
+Software engineer (autonomous driving / vehicle control), based in Japan
+GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+```
+
+---
+
+## 13. Flinders — Tier A で唯一の来校ゼロ候補
+
+**宛先**: hdr.admissions@flinders.edu.au(Office of Graduate Research の出願窓口。cc に gradresearch@flinders.edu.au)
+**注意**: 現行の国際向け HDR ページにはメールアドレスがなく、AskFlinders ポータルに誘導している。アドレスは OGR のブログ(2025-01)と担当一覧(2022)で確認したもの。**返事がなければ同じ文面を AskFlinders から送る**
+**狙い**: 海外在住の留学生が、PhD (Engineering) に Online モードの PT で入れるか
+**確認したこと(前回のメモからの訂正を含む)**
+- HDR Admission and Enrolment Procedures(2025-11-20改正): 「Online: … No in person attendance is required. [Note: this mode of delivery was previously termed 'external']」。§4.3(b)(ii): Online 系のモードでは、本人と指導教員が「HDR Online Plus Study Agreement」を出す
+- **一方、PhD (Engineering) のコースページは、国際学生には「Delivery mode: In Person」しか表示していない**
+- 「Complete your HDR from anywhere in the world」は、オンラインの在籍管理システム(Inspire)の説明で、**オンラインで在籍できるという意味ではない**(前回のメモの解釈を訂正)
+- 学費 2026年: PhD (Engineering) 年 A$44,800。研究学位の PT 料金の明文はなく、「based on the number of days of candidature in each half-year period」
+**出典**: [HDR Admission and Enrolment Procedures](https://www.flinders.edu.au/content/dam/documents/staff/policies/academic-students/hdr-admission-enrolment-procedures.pdf) / [PhD (Engineering)](https://www.flinders.edu.au/study/courses/doctor-philosophy-phd-engineering) / [Meet the OGR](https://blogs.flinders.edu.au/hdr-students/2025/01/29/meet-the-ogr/) / [Fee schedule 2026](https://www.flinders.edu.au/content/dam/documents/study/international/international-commencing-tuition-fee-schedule-2026.pdf) / [Tuition fees procedures](https://www.flinders.edu.au/content/dam/documents/staff/policies/academic-students/international-student-tuition-fees-procedures.pdf)
+
+```
+Subject: PhD (Engineering) in Online mode, part-time, for an international applicant based in Japan
+
+Dear HDR Admissions Team,
+
+I am a software engineer based in Japan, working in autonomous driving
+and vehicle control. I am interested in a PhD (Engineering) in the
+area of autonomous marine vehicles (navigation, guidance and control),
+pursued through simulation, and the work of the Maritime Engineering
+and Robotics group appears to be a close match. I would remain in
+full-time employment in Japan and would not apply for a student visa.
+
+Before I approach a potential supervisor, I would be grateful for
+clarification on the following:
+
+1. The HDR Admission and Enrolment Procedures define an "Online" mode
+   in which "no in person attendance is required", supported by an HDR
+   Online Plus Study Agreement. The PhD (Engineering) course page,
+   however, shows only "In Person" delivery for international
+   students. Can an international applicant living in Japan be
+   admitted to the PhD (Engineering) in Online mode?
+
+2. The procedures restrict part-time candidature for international
+   students studying in Australia on a student visa. Is part-time
+   candidature available to an international candidate studying
+   online from overseas?
+
+3. In Online mode, can milestones such as the confirmation of
+   candidature be completed online, or is any visit to Adelaide
+   required?
+
+4. The 2026 annual fee for the PhD (Engineering) is AUD 44,800. For a
+   part-time candidate, would the fee be 50 per cent of this amount?
+
+5. If I study in my own time outside working hours, would my employer
+   still need to confirm study release?
+
+Thank you for your time.
+
+Kind regards,
+
+Shisato Yano
+Software engineer (autonomous driving / vehicle control), based in Japan
+GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+```
+
+---
+
 ## 返信を受けた後にやること
 
 - 各校の `labs/<大学名>.md` の「未確認事項」を、回答内容に置き換える(**返信本文は逐語引用せず要旨のみ**)
