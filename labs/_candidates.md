@@ -299,23 +299,23 @@ A = 日本拠点で研究可(現地滞在合計12か月以内) / B = パート�
 
 | 大学 | 国 | 分野 | 6年の学費 | 合計滞在 | 条件・懸念 | 評判(QS2026 / THE Eng 2026) |
 |---|---|---|---|---|---|---|
-| **TU/e** | 蘭 | ◎ 自動運転・MPC | €0〜42k(0〜約710万円) | defence のみ(+α) | 減免は学科長の裁量 | 140 / 84。Automotive Campus と TNO の連携 |
-| **Twente** | 蘭 | ○ ロボット・ドローン | €12〜18k(約200〜310万円) | qualifier と defence | 自動運転の教員は少ない | 203 / 126–150 |
-| **Plymouth** | 英 | ◎ 海洋自律(CMAST、National Centre for Marine Autonomy) | £29.6k(約590万円)。海外で研究する場合の専用料金 | 未確認 | **日本側の現地指導者(local supervisor)が要る** | 未調査 |
-| **MUN**(Memorial) | 加 | ◎ 海洋自律(AOSCENT:UUV・USV・航法) | CA$26.8k(約300万円) | 原則3学期(約12か月)。Dean の承認があれば学外で満たせる | 学外で満たすには承認が要る | 未調査 |
-| **NTNU** | 諾 | ◎ 船舶の GNC(Fossen ら) | 0 + 1年の滞在費(約270万円) | 合計1年(分割・短縮可) | 時間要件(勤務時間の50%以上)と3者間の合意書 | 267 / =97。自律船では世界の中心 |
-| **USN** | 諾 | ○ 自律船(MASS、遠隔運航センター) | 0 + 滞在費 | 原則1年(2回に分割・短縮可) | 全期間の資金証明と3者間の合意書 | 未調査 |
-| **Aalto** | 芬 | ○〜◎ 自動運転車・ロボット・自律船の安全 | 0 | 「一部期間フィンランドに居住」(月数は公式に記載なし) | 居住期間を要確認 | 114 / 101–125 |
-| LJMU | 英 | △〜○ 海事の安全・リスク(制御・知覚は弱め) | £26.6k(約530万円、総額固定) | ほぼ0(viva はオンライン可) | 規程に国際学生向けの distance PhD を明記 | 未調査 |
+| **TU/e** | 蘭 | ◎ 自動運転・MPC | €0〜42k(0〜約710万円) | defence のみ(+α) | 減免は学科長の裁量 | 140 / 84。QS分野: EEE 65・Mech 60。Automotive Campus と TNO の連携 |
+| **Twente** | 蘭 | ○ ロボット・ドローン | €12〜18k(約200〜310万円) | qualifier と defence | 自動運転の教員は少ない。2025年に S&T 学部で8研究グループ閉鎖 | 203 / 126–150。QS分野: Mech 142 |
+| **Plymouth** | 英 | ◎ 海洋自律(CMAST、National Centre for Marine Autonomy) | £29.0k(約580万円、海外研究 PT £4,830×6)。日本の消費税が上乗せされる可能性 | 年6週以上(2017年版規程。現行は未確認)→ 6年で約8か月 | **日本側の現地指導者(local supervisor)が要る**。資格要件は非公開 | QS分野: 工学・CS は圏外、Earth & Marine 101–150。2025年に351人削減(芸術系中心) |
+| **MUN**(Memorial) | 加 | ◎ 海洋自律(AOSCENT:UUV・USV・航法) | CA$26.8k(約300万円) | 原則3学期(約12か月)。Dean の承認があれば学外で満たせる | 学外で満たすには承認が要る | QS分野: 工学・CS は圏外、Earth & Marine 201–275。2025年に赤字で20人解雇 |
+| **NTNU** | 諾 | ◎ 船舶の GNC(Fossen ら) | 0 + 1年の滞在費(約270万円) | 合計1年(分割・短縮可) | 時間要件(勤務時間の50%以上)と3者間の合意書 | 267 / =97。QS分野: EEE 99・Mech 79。自律船では世界の中心 |
+| **USN** | 諾 | ○ 自律船(MASS、遠隔運航センター) | 0 + 滞在費 | 原則1年(2回に分割・短縮可)。規程 §3-6 で確認 | **自費で入れるのは PhD in Technology のみ**(Nautical Operations は自費不可)。全期間の資金証明と3者間の合意書 | QS分野: いずれも圏外。2028年までに72FTE以上の削減 |
+| **Aalto** | 芬 | ○〜◎ 自動運転車・ロボット・自律船の安全 | 0 | 「一部期間フィンランドに居住」(月数は公式に記載なし) | 居住期間を要確認 | 114 / 101–125。QS分野: EEE 135・CS 142 |
+| LJMU | 英 | △〜○ 海事の安全・リスク(制御・知覚は弱め) | £26.6k(約530万円、総額固定) | ほぼ0(viva はオンライン可) | 規程に国際学生向けの distance PhD を明記 | QS分野: CS 751–850 のみ。2024〜26年の削減報道なし |
 
 ### Tier A: 分野が合い、学費は中程度(約1,200〜1,700万円)
 
 | 大学 | 国 | 分野 | 6年の学費 | 合計滞在 | 条件・懸念 | 評判 |
 |---|---|---|---|---|---|---|
-| **TU Delft** | 蘭 | ◎ マルチロボット・自律船(Negenborn) | 約€71k(約1,200万円)。減免は学部の裁量 | 不明 | 3mE が海外在住の外部PhDを受け入れるか | 47 / **16** |
+| **TU Delft** | 蘭 | ◎ マルチロボット・自律船(Negenborn) | 約€71k(約1,200万円)。減免は学部の裁量 | 不明 | 3mE が海外在住の外部PhDを受け入れるか。**2028年までに大学予算の PhD ポスト148以上減、機械工学127FTE減** | 47 / **16**。QS分野: EEE 14・Mech 9 |
 | Sheffield(Remote Location) | 英 | ○ | £72〜81k(約1,440〜1,620万円) | 規定なし | 海外の受入機関が要る。企業でもよいかは不明 | 92 / =97 |
 | Southampton | 英 | ○(海洋ロボットは◎だが、工学系の distance PhD は未確認) | 約£82k(約1,640万円) | 原則なし | 工学系の学科が受け入れるか | 87 / 101–125 |
-| Flinders | 豪 | ◎ 自律海洋機 | 約A$128k(約1,280万円) | 0(Online 在籍) | 工学 PhD のページは対面の表記のみ | 未調査 |
+| **Flinders** | 豪 | ◎ 自律海洋機(Sammut) | 約A$134k(約1,340万円、年 A$44,800 の PT 50% と仮定) | 0(Online 在籍、来校不要と規程に定義) | 海外の留学生の PT はアーカイブの公式 FAQ で可。最低滞在の規定は見つからず。2025年に海洋科学を含むリストラ案 | QS分野: いずれも圏外 |
 | UTAS(AMC) | 豪 | ○ | 約A$136k(約1,360万円、推測) | 不明 | 海外在住の PT が可能か不明 | 未調査 |
 
 ### Tier B: 分野・評判は強いが、学費が高い(約1,900万円以上)
@@ -324,7 +324,7 @@ A = 日本拠点で研究可(現地滞在合計12か月以内) / B = パート�
 |---|---|---|---|---|
 | York | £96〜104k(推定) | 入学時の5日 + 最終試験 | 国際学生の PT 料金は非公表 | 169 / 251–300。安全性保証に特化 |
 | Bristol | £85〜104k | 約3週 | 学科が distance を提供するか | 51 / 100。Bristol Robotics Lab |
-| Strathclyde | 約£96k(PT 50% と仮定) | 未確認 | - | 未調査。自律船(MSRC) |
+| Strathclyde | 約£96〜98k(2026-27 FT £31,900〜32,800 の PT 50% と仮定。PT の工学 PhD 料金は非公表) | 未確認 | 海外在住の PT が可能か不明。distance PhD の制度はない | QS分野: EEE 139・Mech 124。自律船(MSRC)。£35m の資金不足で76ポスト削減 |
 | Imperial(PRI) | £97〜104k | 合計12か月(年2か月以上) | 勤務先を研究拠点として承認してもらう | 2 / 12。CSRankings Robotics で英国1位 |
 | Newcastle | 約£100k | 規定なし | 学部長の承認、産業スポンサーがあると有利 | 未調査 |
 | KCL | 約£104k | 6か月以上 | 勤務先側の指導者 | 31 / 126–150 |
@@ -339,7 +339,7 @@ A = 日本拠点で研究可(現地滞在合計12か月以内) / B = パート�
 - Swansea: 分野△(£71k、滞在なし)
 - UOW: 分野△。PT 学生は「should not undertake more than 30 hours a week of paid work」→ **フルタイム勤務とぶつかる可能性**
 - Cranfield: 分野△(自律は航空・防衛)、正式な distance 制度なし
-- Heriot-Watt: 分野◎(水中ロボット、Ocean Systems Lab)だが、学費が未取得(off-campus には bench fee)
+- Heriot-Watt: 分野◎(水中ロボット、Ocean Systems Lab)。規程に Off Campus の在籍があり、最低来校の規定なし、勤務先に副指導者を置ける。ただし off-campus の学費・bench fee は非公表(FT 国際 £27,080)。2024-25年はスコットランド最大の赤字
 
 ### 外れたもの(滞在または制度が合わない)
 
@@ -364,9 +364,7 @@ A = 日本拠点で研究可(現地滞在合計12か月以内) / B = パート�
 
 ### 未確認(WebSearch の上限で止まったもの)
 
-- QS の分野別ランキング、Reddit などの口コミ、各大学の財政報道の裏取り(UTS の削減以外)
-- Tier S の新規校(Plymouth・MUN・USN・LJMU)の評判
-- Plymouth の滞在要件、Heriot-Watt の学費
+→ 2026-10-02 に補完した(次の節)。
 
 ### 出典(今回追加分)
 
@@ -379,6 +377,170 @@ A = 日本拠点で研究可(現地滞在合計12か月以内) / B = パート�
 - Heriot-Watt: [PGR Code of Practice](https://www.hw.ac.uk/document-library/professional-services/registry-services/academic-registry/cop-pgr.pdf)
 - Flinders: [HDR Policy](https://www.flinders.edu.au/content/dam/documents/staff/policies/academic-students/higher-degrees-research-policy.pdf)
 - Cambridge: [Fees API](https://2027.gaobase.admin.cam.ac.uk/api/courses/EGEGPDPEG/financial_tracker.html?fee_status=O&part_time=on) / Oxford: [DPhil Engineering Science](https://www.ox.ac.uk/admissions/graduate/courses/dphil-engineering-science) / Bristol: [PGR overseas fees](https://www.bristol.ac.uk/students/support/finances/tuition-fees/pgr/overseas/) / ANU: [9715XPHD](https://programsandcourses.anu.edu.au/2026/program/9715xphd) / UTS: [Course fees](https://cis.uts.edu.au/fees/course-fees.cfm) / UOW: [HDR Award Rules](https://policies.uow.edu.au/document/view-current.php?id=3) / Sheffield: [Study away](https://sheffield.ac.uk/postgraduate/away) / KCL: [Academic Regulations](https://www.kcl.ac.uk/assets/arqs/academic-manual/current-year/academic-regulations.pdf) / Imperial: [Regulations 2025-26](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/regulations/2025-26/MPhil_PhD_Regulations_2025_26-v3.1.pdf)
+
+## 【2026-10-02 追加】評判・制度の補完調査
+
+2026-10-01 に WebSearch の上限で止まった項目を埋めた。Tier の表には要点だけを反映した。
+
+### 分かったこと
+
+- **Tier S の先頭は TU/e のままでよい。** 工学の QS 分野別順位が Tier S で最も高く(EEE 65・Mech 60)、解雇の報道もない
+- **船舶系の Tier S(Plymouth・MUN・USN)は、工学ランキングでは圏外。** 分野の適合は◎でも、工学での名前の通りは弱い。QS には海洋工学の分野がなく、理学系の Earth & Marine Sciences にだけ入る
+- **Plymouth は滞在の見通しが立った。** 海外研究の料金は PT で年£4,830(Band 2)。2017年版の規程では「海外拠点の学生は年6週以上の来校が必須」で、6年なら約8か月。現行の規程はログインが要るので照会で確認する
+- **USN は自費だと PhD in Technology の1択。** 同じ USN でも PhD in Nautical Operations は「Admission is not granted for self-financed PhD students」
+- **Flinders は Tier A で最も遠隔に向く。** 規程に「Online — … No in person attendance is required」の在籍形態があり、2025年4月時点の公式 FAQ では海外の留学生も PT で在籍できる。フルタイム勤務なら勤務先の確認書を求められることがある
+- **TU Delft はさらに厳しくなった。** 予算削減で大学予算の PhD ポストを減らし、PhD 候補者の教育負担を増やしている。外部 PhD の受け入れに余裕があるかは疑わしい
+- **UCL Non-Resident は2026/27に廃止。** 「Distance Learning Off-Campus status」に置き換わり、学費は通常の100%。規程の例外扱いとして、学科が個別に申請する形
+- 財政難・人員削減の報道は22校中20校にある(ないのは LJMU と Aalto)。英国・豪州・オランダ・ノルウェーのどこでも起きているので、それだけで候補を外すのではなく、**分野の学部・研究グループが直接対象か**で見る
+
+### 評判: QS World University Rankings by Subject 2026
+
+QS 公式サイトは403で読めず、QS 2026 の表を転載したサイトで確認した。「—」は転載サイトの表に見つからないという意味で、圏外と確定したわけではない(表から行が抜けている可能性がある)。
+
+| 大学 | EEE | Mech/Aero/Mfg | CS & IS | Earth & Marine |
+|---|---|---|---|---|
+| TU/e | 65 | 60= | 111= | — |
+| Twente | 201-250 | 142= | 351-400 | 101-150 |
+| Plymouth | — | — | — | 101-150 |
+| MUN | — | — | — | 201-275 |
+| NTNU | 99= | 79= | 201-250 | 101-150 |
+| USN | — | — | — | — |
+| Aalto | 135 | 151-200 | 142 | — |
+| LJMU | — | — | 751-850 | — |
+| TU Delft | 14 | 9= | 50 | 21 |
+| Sheffield | 119= | 63 | 169= | 201-275 |
+| Southampton | 87= | 81= | 178= | 40 |
+| Flinders | — | — | — | — |
+| UTAS | — | — | — | 51-100 |
+| York | 251-300 | — | 201-250 | — |
+| Bristol | 151-200 | 66= | 111= | 18 |
+| Strathclyde | 139= | 124 | 301-350 | — |
+| Imperial | 9 | 9= | 12 | 15 |
+| Newcastle | 151-200 | 201-250 | 180= | 101-150 |
+| KCL | 95= | 151-200 | 46 | 201-275 |
+| Oxford | 7 | 7= | 4= | 2 |
+| Warwick | 139= | 125= | 84 | — |
+| Cambridge | 6 | 4 | 8 | 3 |
+| UTS | 64 | 118= | 55 | 151-200 |
+| ANU | 67 | 125= | 48 | 20 |
+| Heriot-Watt | 151-200 | 251-300 | 301-350 | 201-275 |
+| Swansea | 301-350 | 151-200 | 201-250 | — |
+| UOW | 201-250 | 151-200 | 351-400 | 151-200 |
+| Cranfield | 301-350 | 55 | 501-550 | — |
+
+### 評判: 財政難・人員削減の報道(2024〜2026年)
+
+分野(工学・CS・海洋)の部門が直接対象になっているかを重視して要約する。
+
+| 大学 | 要点 | 分野の部門への影響 |
+|---|---|---|
+| TU/e | 政府の削減で成長計画を停止、全学科に削減を指示。地域投資(Beethoven)で最悪は免れた。解雇の報道なし | 小 |
+| Twente | Faculty of Science & Technology を再編。63人が対象、46人を解雇、8研究グループを閉鎖(2025-02) | **あり** |
+| TU Delft | 2028年から年€79mの削減、学部ごとに10%。大学予算の PhD ポスト148以上減、機械工学127FTE減 | **あり** |
+| オランダ全体 | 高等教育・研究の予算を年€500m超削減 | - |
+| Plymouth | 収入が10%減り、351人を削減(主に希望退職)。学生側の報道では芸術・デザイン・建築が中心 | 報道なし |
+| MUN | 2025-26年度に$6.7mの赤字、$20mの支出削減、20人の解雇 | 報道なし |
+| NTNU | 2025年末に前年比294FTE減。医学・教員養成が中心 | 報道なし |
+| USN | 2023年以降73FTE減、5プログラム閉鎖。2028年までに NOK 140m・72FTE以上の削減が必要 | 不明 |
+| Aalto | 大学単位の報道なし。フィンランド全体で高等教育予算を削減 | - |
+| LJMU | 2024〜26年の報道なし | - |
+| Flinders | 134FTE・164コースのリストラ案。海洋科学者6人を含む | **あり**(海洋科学) |
+| UTAS | $10.8m の赤字。人文系の再編 | 報道なし |
+| Strathclyde | £35m の資金不足で76ポスト削減(教育学中心)、ストライキ | 報道なし |
+| Newcastle | 約300FTE削減。工学を含む SAgE 学部から£1.7m | **あり** |
+| Heriot-Watt | 2024-25年の赤字£7.9mはスコットランドで最大。51ポストが対象(語学など) | 報道なし |
+| York | £30m の削減に加えて£34m。2025-07に90%以上達成 | 報道なし |
+| Swansea | £30m の削減、約400人が退職。2026-01に理工学部(CS・工学)も対象。学科の閉鎖はしないとしている | **あり** |
+| UOW | 留学生が50%減、合計約276ポストの削減 | 不明 |
+| Sheffield | £23m の人件費削減、化学科が危機 | 報道なし |
+| Southampton | 最大75の教員ポストを削減(2024) | 不明 |
+| Bristol | 632の削減を発表(2025-03)、のちに半減と報道 | 報道なし |
+| Cranfield | 第1段階で約150人、第2段階で195ポスト(2025-08) | **あり**(大学全体が工学系) |
+| ANU | 「Renew ANU」で年$250mの削減。工学・計算機の学部の統合案 | **あり** |
+
+### 評判: 遠隔・PT・外部 PhD の口コミ
+
+Reddit はツールから取得できず、GradCafe の投稿も見つからなかった。大学ごとの遠隔 PhD の体験談はほとんど見つからない。個人名は書かず、要旨のみ記録する。
+
+- **英国の遠隔・PT PhD 全般**: 孤立、学科の動きが見えないこと、指導教員との距離、長年のモチベーション維持が主な苦労。対策として、指導を仕事のプロジェクトのように回す(定例会議・議題・議事録・締切)ことが挙がる。学位記に「distance」とは書かれないので、認定された大学なら雇用主には通るという声が多い
+- **フルタイム勤務と PhD の両立**: 5〜7年かかり、夜と週末をすべて充てるという声が多い。本業に支障が出たという声もある
+- **オランダの外部 PhD**: 全 PhD 候補者の約半数が外部。外部 PhD は満足度が最も低いグループで、遅れを見込み、研究室に溶け込めず、指導への評価も低い。学費・設備・指導の手厚さは大学ごとに大きく違う
+- **ノルウェーの産業 PhD**: 公的評価で、成功の鍵は「大学の研究環境に溶け込むこと」とされる。フルリモートでは不利になりうる
+- **Aalto**: 大学の2025年調査で、博士課程の約21%が PT、294人が産業・学外の共同研究先で研究し、85%が「指導教員と十分に会えている」と回答
+
+→ 遠隔では「研究室に属している実感」を作れるかが成否を分ける。照会では、指導教員との面談頻度と、遠隔の学生がオンラインで参加できるグループの行事(定例ミーティングなど)を確認する。
+
+### 制度・学費: 英国(Plymouth・Heriot-Watt・UCL・Strathclyde)
+
+- **Plymouth**
+  - 2026-27年の海外研究の料金(Robotics・Computing・Mechanical・EEE は Band 2): FT 年£9,655、**PT 年£4,830**。通常の国際料金は FT £19,315 / PT £9,655
+  - 2024-08-01以降に入学する PT は、writing-up に入るまで最低6年の在籍が要る
+  - bench fee は個別に設定し、オファーレターに書かれる
+  - 「If you are studying from outside the UK, … may be required to add an applicable sales tax at your country of residence's local rate」→ 日本の消費税が上乗せされる可能性がある
+  - 来校: 2017年版 Code of Practice §6.11(e)「for candidates conducting their research mainly based overseas, it is compulsory to spend at least 6 weeks a year at University of Plymouth」。現行の Handbook はログインが要り、確認できない
+  - 現地指導者: Mechanical Engineering のページに「Remote supervision of overseas students is possible subject to identification of a supervisor local to the candidate」。博士号が要るか、勤務先の社員でもよいかは公開資料に書かれていない
+- **Heriot-Watt**
+  - PGR Code of Practice(2024-08)§2.2 に「Off Campus Research Degree Candidate」(distance learning とも呼ぶ)が定義され、Code は全面的に適用される。最低来校の規定はない
+  - §2.7: 副指導者は「at the Research Degree Candidate's place of employment」でもよい
+  - §5.1.3.5: 遠隔指導の追加費用は「usually covered by a bench fee」。金額は非公表
+  - Institute of Sensors, Signals and Systems(Ocean Systems Lab を含む)の国際 FT 学費は£27,080(年度の表記なし)。ページの在籍形態は FT のみ
+- **UCL**
+  - Non-Resident は2026/27に廃止され、「Distance Learning Off-Campus status」に置き換わった。学科が規程の例外として研究科委員会に申請する
+  - 学費は「charged at 100% of your usual fee」。以前の£1,500の減額はなくなった
+  - 新制度の最低来校、企業を研究拠点にできるかは書かれていない。旧制度は「overseas institution … of international standing」が前提だった
+- **Strathclyde**
+  - 2026-27年の国際 FT 学費: EEE・Mech & Aero £32,800、NAOME(船舶・海洋工学)£31,900
+  - PT は「normally calculated pro-rata」で、PT の定義は50%の負荷。ただし工学 PhD の PT 料金は書かれていない
+  - EEE と NAOME に PhD part-time の入学日はある。海外在住の PT を認めるかは書かれていない(Business School の例では年10日以上の来校が必要)
+
+### 制度・学費: Flinders・USN・HVL・Dalhousie(前回の未検証分)
+
+- **Flinders**
+  - HDR Admission and Enrolment Procedures §3: 「Online — … No in person attendance is required. [Note: this mode of delivery was previously termed 'external' …]」。§6.2.1 で海外の留学生のカテゴリとして扱われている
+  - 学生ビザで豪州にいる留学生の PT は例外扱い(§6.1 c)。海外在住者には当てはまらない
+  - 2025-04時点の公式 FAQ(ウェブアーカイブ): 「it is possible to undertake a HDR on a part-time basis for domestic or external international students」「expected to study for 18–20 hours per week」「If you are also working full-time, you may be asked for confirmation from your employer that study release will be made available to you」。学外で研究するには指導教員が「HDR Application for External Status」を出す
+  - 学費(2026年、国際の入学者): PhD (Engineering) 年 A$44,800
+  - 指導教員候補
+    - Karl Sammut: Maritime Engineering & Robotics の Head。自律海洋機のミッション計画・航法・誘導・制御
+    - Andrew Lammas: 状態推定・制御・経路計画
+    - Thomas Chaffre: 適応制御・機械学習・コンピュータビジョン(自律移動体への応用)
+- **USN**
+  - 規程(FOR-2017-12-14-2411、2025-08改正)§3-6: 「PhD candidates will normally spend a minimum of one year at the institution」「may be split into two periods and may be reduced if …」→ 前回のメモどおり
+  - §2-4(4) c: 「funding has not been secured for the entire period」なら不合格になりうる。§2-6(2): 外部の資金・雇用がある場合は3者間の合意書が必須
+  - 最長は原則6年
+  - PhD in Technology: EEE・CS・機械など。「Teaching model: Out of campus and Campus」
+  - PhD in Nautical Operations: 「Admission is not granted for self-financed PhD students」「a minimum of 12-month residency」→ **自費では使えない**
+  - Autonomy グループ(センサフュージョン、遠隔・ロボット航法、MASS・ROC): Christian Hovden(グループリーダー)、Fabio Augusto de Alcantara Andrade(教授)ら
+- **HVL**: 「Self-financing is not normally accepted as the basis for admission」→ 前回のメモどおり外れたまま。滞在は「Dekan kan fastsette krav om residensplikt」(学部長が決める)
+- **Dalhousie**: 工学の PhD は「Enrollment Options: Full-time」のみ。最初の2年で4学期の来校が原則で、資金の裏付けがないと入学できない → 外れたまま。なお PhD は留学生向けの学費がかからず、工学で年約 CA$11k
+
+### Tier の変更
+
+- Flinders を Tier A の中で優先度を上げる(遠隔の在籍形態が規程にあり、分野も◎)
+- USN は Tier S に残すが、PhD in Technology で、滞在は約1年が前提
+- TU Delft は Tier A に残すが、受け入れの見込みは下げる
+- Heriot-Watt は学費が分かるまで Tier C のまま(制度は合っている)
+
+### 照会で確認すること(追加分)
+
+- Plymouth(doctoralcollege@plymouth.ac.uk): 年6週の来校が現行規程でも必須か。現地指導者の資格要件(博士号の要否、勤務先の社員でもよいか)。日本からの在籍で消費税が上乗せされるか
+- Flinders(Office of Graduate Research): 海外在住の PT で External Status を取れるか(現行の制度)、最低来校の有無、PT の学費
+- Heriot-Watt(pgr.eps@hw.ac.uk): off-campus の学費が FT と同額か、bench fee の目安、国際学生の PT 料金
+- Strathclyde(EEE の PGR 事務): 海外在住の PT を認めるか、工学 PhD の PT 料金
+
+### 出典
+
+- QS(転載サイト): [EEE](https://xuanxiao.org/en/rankings/qs/subject/electrical-electronic-engineering) / [Mech](https://xuanxiao.org/en/rankings/qs/subject/mechanical-aeronautical-manufacturing-engineering) / [CS](https://xuanxiao.org/en/rankings/qs/subject/computer-science-information-systems) / [Earth & Marine](https://xuanxiao.org/en/rankings/qs/subject/earth-marine-sciences)
+- 財政報道: [Plymouth(THE)](https://www.timeshighereducation.com/news/plymouth-says-200-roles-risk-newcastle-cuts-further-38-jobs) / [MUN(CBC)](https://www.cbc.ca/news/canada/newfoundland-labrador/mun-cuts-layoffs-1.7593368) / [USN(Khrono)](https://www.khrono.no/ma-ned-minst-72-arsverk/855419) / [NTNU(Universitetsavisa)](https://www.universitetsavisa.no/avsetninger-budsjettkutt-ntnu/ntnu-planen-mindre-penger-mindre-aktivitet/445863) / [オランダ全体(NL Times)](https://nltimes.nl/2025/02/17/dutch-universities-start-laying-workers-govt-budget-cuts-set) / [TU/e(Cursor)](https://www.cursor.tue.nl/en/news/2024/juli/week-2/cutbacks-by-incoming-government-force-tu-e-to-abandon-growth-plans/) / [Twente・Delft(Erasmus Magazine)](https://www.erasmusmagazine.nl/en/2025/02/14/university-of-twente-dismisses-dozens-of-staff-delft-also-cuts-back/) / [TU Delft(Delta)](https://delta.tudelft.nl/en/article/fewer-phd-positions-and-more-teaching-duties-for-phd-candidates) / [Flinders(ABC)](https://www.abc.net.au/news/2025-09-23/sa-flinders-uni-jobs-restructure/105795002) / [UTAS(ABC)](https://www.abc.net.au/news/2025-07-03/university-of-tasmania-confirms-job-cuts/105492096) / [Strathclyde(UCU)](https://www.ucu.org.uk/article/14403/Strikes-likely-at-Strathclyde-University-as-staff-vote-for-industrial-action) / [Newcastle(THE)](https://www.timeshighereducation.com/news/newcastle-set-axe-around-300-jobs-ps20-million-staffing-cuts) / [Heriot-Watt 財務諸表](https://www.hw.ac.uk/document-library/annual-report-financial-statements-2025.pdf) / [York](https://www.york.ac.uk/students/university-finances/what-may-change/) / [Swansea(ITV)](https://www.itv.com/news/wales/2026-01-29/plans-for-job-cuts-announced-for-one-of-wales-main-universities) / [UOW(ABC)](https://www.abc.net.au/news/2025-03-25/wollongong-university-more-staff-cut-declining-overseas-students/105092278) / [Sheffield(THE)](https://www.timeshighereducation.com/news/union-fears-400-jobs-set-go-sheffield-ps23-million-cuts) / [Southampton(THE)](https://www.timeshighereducation.com/news/university-southampton-cut-75-academic-jobs) / [Bristol(Epigram)](https://epigram.org.uk/university-of-bristol-voluntary-severance-humanities-langauges/) / [Cranfield](https://www.cranfield.ac.uk/press/news-2025/safeguarding-cranfields-future) / [ANU(ABC)](https://www.abc.net.au/news/2025-07-31/anu-job-cuts-academic-portfolio-renew-save-millions/105596738) / [Finland(University World News)](https://www.universityworldnews.com/post.php?story=20250911094637872) / [英国の削減一覧(THE)](https://www.timeshighereducation.com/news/uk-university-redundancies-latest-updates)
+- 口コミ: [The Student Room](https://www.thestudentroom.co.uk/showthread.php?t=7286907) / [Pat Thomson のブログ](https://patthomson.net/2017/05/18/a-part-time-and-distance-phd/) / [PNN: external PhD candidates](https://www.hetpnn.nl/knowledge-base/external-phd-candidates) / [NIFU: 産業 PhD の評価](https://www.nifu.no/en/prosjekter/evaluering-av-naerings-ph-d/) / [Aalto 2025年調査](https://www.aalto.fi/en/news/results-of-the-doctoral-student-yearly-follow-up-2025)
+- Plymouth: [PGR fees 2026-27](https://www.plymouth.ac.uk/study/fees/tuition-fees-for-postgraduate-research-students-2026-27) / [PhD Mechanical Engineering](https://www.plymouth.ac.uk/courses/postgraduate/phd-mechanical-engineering) / [2017年版 Code of Practice(第三者のミラー)](https://www.neugalu.ch/pdf/research_degrees_handbook_2017_uop.pdf) / [Regulations](https://www.plymouth.ac.uk/student-life/your-studies/essential-information/regulations)
+- Heriot-Watt: [PGR Code of Practice](https://www.hw.ac.uk/uk/services/docs/academic-registry/cop-pgr.pdf) / [ISSS](https://www.hw.ac.uk/study/research/institute-of-sensors-signals-and-systems) / [Tuition fees](https://www.hw.ac.uk/students/your-money/uk-campuses/tuition-fees)
+- UCL(ウェブアーカイブ経由): [Off-Campus Study](https://www.ucl.ac.uk/study/doctoral-school/regulations/essential-procedures-and-policies/campus-study) / [PGR fees 2026-27](https://www.ucl.ac.uk/study/student-finances/tuition-fees/fee-schedules/fee-schedules-2026-2027/postgraduate-research-fees-2026-2027)
+- Strathclyde: [PG Fees 2026-27 v.12](https://www.strath.ac.uk/media/1newwebsite/documents/tuitionfees/16092026_PG_Fees_2026-2027_Entry_v.12.pdf) / [Fees Policy](https://www.strath.ac.uk/media/1newwebsite/documents/tuitionfees/20241212-university-fees-policy.pdf) / [EEE research](https://www.strath.ac.uk/courses/research/electronicelectricalengineering/)
+- Flinders: [HDR Admission and Enrolment Procedures](https://www.flinders.edu.au/content/dam/documents/staff/policies/academic-students/hdr-admission-enrolment-procedures.pdf) / [公式 FAQ(2025-04、アーカイブ)](http://web.archive.org/web/20250419210539/https://students.flinders.edu.au/my-course/apply/hdr.html) / [Fee schedule 2026](https://www.flinders.edu.au/content/dam/documents/study/international/international-commencing-tuition-fee-schedule-2026.pdf) / [Karl Sammut](https://www.flinders.edu.au/people/karl.sammut)
+- USN: [PhD in Technology](https://www.usn.no/english/research/postgraduate-studies-phd/our-phd-programmes/technology/) / [Nautical Operations の出願要件](https://www.usn.no/english/research/postgraduate-studies-phd/our-phd-programmes/nautical-operations/qualification-requirements-and-application-process-for-the-phd-in-nautical-operations) / [Autonomy グループ](https://www.usn.no/english/research/our-research-centres-and-groups/technology/autonomy/)
+- HVL: [Before applying](https://www.hvl.no/en/research/phd-programmes/before-applying/) / [PhD 規程](https://lovdata.no/dokument/SF/forskrift/2024-06-24-1859)
+- Dalhousie: [Graduate Calendar 2026/27](https://cdn.dal.ca/content/dam/dalhousie/pdf/academics/academiccalendar/GR_2026_2027.pdf) / [PhD fee schedule](https://www.dal.ca/content/dam/www/admissions/cost-and-payment/tuition-and-fee-schedules/phd-tuition-fee-schedule.pdf)
 
 ## 次のアクション(優先度順)
 
@@ -396,3 +558,4 @@ A = 日本拠点で研究可(現地滞在合計12か月以内) / B = パート�
 9. 【2026-10-01 追加】費用比較の結果、**第1陣は TU/e を先頭にする**。Twente は第2陣のまま、TU/e と一緒に照会する。NTNU は分野が最も合うので候補に残し、制度面を照会する
 10. 【2026-10-01 決定】**勤務先との取り決めは確定事項として扱わない。** 進学先が具体的になった段階で改めて相談するので、「勤務先との取り決めとぶつかる」ことだけを理由に候補を外さない(Imperial PRI など、学外の受入機関・雇用主が要る型も同様)
 11. 【2026-10-01 追加】3軸の再評価で Tier S(TU/e・Twente・Plymouth・MUN・NTNU・USN・Aalto・LJMU)を個別調査と照会の優先対象にする。どの順に進めるかは要相談
+12. 【2026-10-02 追加】評判・制度の補完が完了(2026-10-02 追加の節)。Flinders を Tier A の優先候補に上げる。Plymouth・Flinders・Heriot-Watt・Strathclyde への照会事項を追加
