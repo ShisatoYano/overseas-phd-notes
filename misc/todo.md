@@ -119,6 +119,7 @@ PhD 留学の実現までにやることを、前後の依存関係の順に並�
 - [ ] 2-1. Plymouth(`labs/plymouth.md`)
 - [ ] 2-1. MUN(`labs/mun.md`)
 - [ ] 2-2. **研究テーマの方向を決める**(`research-theme/candidates.md`)
+  - 【2026-10-04】範囲は先に決めた: **手法を軸にし、対象(車・船)は大学に合わせて書き分ける**。2-2 で残るのは、車と船の両方に使える共通の軸を決めること
 - [ ] 2-1. NTNU・Aalto・Flinders・Twente・USN・LJMU(照会の答えを見て、外れた大学は飛ばす)
 
 #### 2-2. 研究テーマの方向を決める(TU/e・Plymouth・MUN を調べた後)

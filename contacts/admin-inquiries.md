@@ -590,7 +590,9 @@ Shisato Yano
 `misc/todo.md` の 1-2。答え次第で候補から外れる、または費用が大きく変わる点だけを聞く。宛先と引用した文言は 2026-10-02 に公式ページで確認した(出典は各節)。
 
 **6校に共通する書き方**
-- 冒頭で「日本在住・フルタイム勤務・自費・研究はシミュレーション中心」と立場を示す
+- 冒頭で「日本在住・時短勤務・自費・研究はシミュレーション中心」と立場を示す
+  - 【2026-10-04 改訂】初版は「フルタイム勤務のまま、研究は勤務時間外」の前提で書いていた。実際は時短勤務、場合によっては休職で、勤務と研究のバランスは勤務先と調整する(`misc/remote-phd-feasibility.md` 追記6)。8〜13 の文面はこの前提に直した。滞在が要る大学(NTNU・Plymouth・Aalto・MUN)には、滞在期間に休職もできることを添える
+  - 研究対象は「手法を軸に、対象は大学に合わせる」(`research-theme/candidates.md` 2026-10-04)。各文面の分野の書き方は、その大学の受け皿に合わせたままでよい
 - **ビザ論法を先に示す**(方針どおり)。学生ビザを取らず、渡航は短期の訪問だけになることを書いてから質問する
 - **勤務先との合意書については、可否ではなく「何が求められるか」を聞く。** 勤務先との取り決めは進学先が決まってから相談し直すので(2026-10-01 の決定)、照会の段階で「勤務先は署名しない」とは書かない
 - TU/e・Aalto・MUN は、実質的な窓口が指導教員(または事前審査をしない)。「指導教員に連絡する前に、制度で外れないかを確かめたい」という位置づけを明示し、質問を絞る
@@ -628,7 +630,9 @@ I am a software engineer based in Japan, working in autonomous driving
 and vehicle control. I am considering a self-funded external PhD at
 TU/e in the area of cooperative and autonomous driving (motion
 planning and control), which I would pursue part-time and entirely
-through simulation, while remaining in full-time employment in Japan.
+through simulation, while continuing to work in Japan on reduced
+hours, with the balance between work and research agreed with my
+employer.
 
 I understand that the first step is to find a TU/e professor willing
 to supervise the research. Before I approach a potential supervisor,
@@ -638,7 +642,7 @@ services, I would be grateful if you could forward this message.
 
 1. Does the Department of Mechanical Engineering accept self-funded
    external PhD candidates who live outside the Netherlands and remain
-   in full-time employment elsewhere? Are there precedents of
+   in part-time employment elsewhere? Are there precedents of
    candidates based outside Europe?
 
 2. The 2026 tuition fee for self-funded external candidates is
@@ -672,7 +676,7 @@ LinkedIn: https://www.linkedin.com/in/shisatoyano
 ## 9. NTNU — 分野は最も合う。在職のまま時間要件を満たせるか
 
 **宛先**: postmottak@itk.ntnu.no(Department of Engineering Cybernetics の受付アドレス)。cc に PhD 事務担当の berit.dahl@ntnu.no と lill.hege.pedersen@ntnu.no
-**狙い**: フルタイム勤務のまま、時間要件(勤務時間の50%以上を研究に充てる)と3者間の合意書をどう扱うか。成り立たなければ NTNU は外れる
+**狙い**: 時短勤務で時間要件(勤務時間の50%以上を研究に充てる)を満たす形が認められるか、3者間の合意書で勤務先に何が求められるか、1年の滞在を休職で分割して満たせるか。【2026-10-04 改訂】初版は「フルタイム勤務のまま勤務時間外に研究する」前提だった
 **確認した規程**
 - 出願ページ: 「at least 50 per cent of the working hours during the doctoral degree programme are available for research education, cf. the PhD agreement. Normally, a minimum of 80 per cent of the working hours during one year must be allocated to full-time studies」「must have a minimum gross income of NOK 17,000 per month」
 - PhD 規程(2026-02-03)§6-3: NTNU に雇用されていない人は「a total of one year or more」の滞在が要る。§7-1: 「The maximum admission period is a net period of six (6) years」。§7-2: 外部から資金・雇用・その他の貢献を受ける場合は3者間の合意書
@@ -681,7 +685,7 @@ LinkedIn: https://www.linkedin.com/in/shisatoyano
 **出典**: [Apply and admission](https://www.ntnu.edu/studies/phtk/apply-and-admission) / [PhD regulations 2026-02-03](https://www.ntnu.edu/documents/1263185004/1285991844/NTNU+PhD-regulations+updated+20260203+(1).pdf/b9ab638d-5d97-b2bc-ab17-5a20ff1ceac0?t=1778059527861) / [工学部の補足規程](https://www.ntnu.edu/documents/1263185004/1285991844/Revidert+utfyllende+bestemmelser+i+ph.d.+forskriften_ENGELSK+05.10.25.pdf/9d394d01-0b39-0cca-df85-41a10fdc2604?t=1763989511222)
 
 ```
-Subject: PhD in Engineering Cybernetics — self-funded candidate in full-time employment in Japan
+Subject: PhD in Engineering Cybernetics — self-funded candidate in part-time employment in Japan
 
 Dear PhD Administration, Department of Engineering Cybernetics,
 
@@ -690,8 +694,10 @@ and vehicle control. My research interests are guidance, navigation
 and control, motion planning and state estimation for autonomous
 vehicles, including marine vessels, which I would pursue through
 simulation. I am considering applying for the PhD in Engineering
-Cybernetics with my own funds, while remaining in full-time
-employment in Japan.
+Cybernetics with my own funds. I would continue working in Japan on
+reduced hours, with the balance between work and research agreed with
+my employer, and could take a leave of absence for periods of
+residence in Trondheim.
 
 Before I approach a potential supervisor, I would like to understand
 how the admission requirements would apply to my situation:
@@ -700,17 +706,20 @@ how the admission requirements would apply to my situation:
    hours during the programme must be available for research
    education, and that normally a minimum of 80 per cent of the
    working hours during one year must be allocated to full-time
-   studies. For a candidate in full-time employment who would carry
-   out the research outside working hours, how is this requirement
-   assessed? Does it require the employer to formally allocate
-   working time to the PhD?
+   studies. I would reduce my working hours so that at least half
+   of my time is available for the PhD. Would a written confirmation
+   from my employer of this arrangement, as part of the PhD
+   agreement, satisfy the requirement? Could the year of full-time
+   study coincide with the periods of residence at NTNU, during
+   which I would be on leave from work?
 
 2. Section 7-2 of the PhD regulations requires a separate agreement
    between the candidate, NTNU and the external party where the
-   candidate is employed by an external party. If my employer would
-   provide no funding, time or other contribution, and the research
-   would be independent of my employment, what would the employer be
-   expected to commit to in this agreement?
+   candidate is employed by an external party. My employer would
+   allow reduced working hours but would not fund or otherwise take
+   part in the research, which would be independent of my
+   employment. What would the employer be expected to commit to in
+   this agreement?
 
 3. I understand that the residency requirement of one year may be
    fulfilled by accumulating several periods. Would it be acceptable
@@ -721,9 +730,10 @@ how the admission requirements would apply to my situation:
    research were carried out at 50 per cent, would an extension
    beyond six years be possible?
 
-5. My own funds would come from my salary in Japan, which exceeds the
-   minimum gross income of NOK 17,000 per month. What documentation
-   of funding would be accepted for this?
+5. My own funds would come from my salary in Japan and my savings.
+   What documentation would be accepted to show the minimum gross
+   income of NOK 17,000 per month, including for the periods when I
+   would be on leave from work?
 
 Thank you for your time.
 
@@ -760,7 +770,8 @@ and vehicle control. I am interested in a part-time PhD in the School
 of Engineering, Computing and Mathematics, in the area of marine
 autonomy (navigation, guidance and control of autonomous vessels),
 pursued through simulation. I would carry out the research in Japan
-while remaining in full-time employment there. I would not apply for
+while continuing to work there on reduced hours, with the balance
+between work and research agreed with my employer. I would not apply for
 a Student visa; any visits to Plymouth would be short.
 
 Before I contact a potential supervisor, I would be grateful for
@@ -809,7 +820,7 @@ LinkedIn: https://www.linkedin.com/in/shisatoyano
 ## 11. Aalto(ELEC)— 学費ゼロ。居住の最低期間
 
 **宛先**: doctoral-sci-elec@aalto.fi(Doctoral Programme in Electrical Engineering の出願窓口。School of Science と共用)
-**宛先の理由**: 制御・ロボット・自律システムは ELEC、自律船は ENG(Marine Technology)。研究テーマを車両系と船舶系のどちらに寄せるかはまだ決めていない(`misc/todo.md` 2-2)ので、**両方に送る**(2026-10-02 決定)。同じ大学の別の窓口に同じ質問を送ることになるので、両方の文面に「もう一方にも送っている」と明記し、回答が重複してもよいことを示す。居住の文言は両プログラムで同じ
+**宛先の理由**: 制御・ロボット・自律システムは ELEC、自律船は ENG(Marine Technology)。研究対象は手法を軸にして車両系・船舶系のどちらも視野に入れる(2026-10-04 決定、`research-theme/candidates.md`)ので、**両方に送る**(2026-10-02 決定)。同じ大学の別の窓口に同じ質問を送ることになるので、両方の文面に「もう一方にも送っている」と明記し、回答が重複してもよいことを示す。居住の文言は両プログラムで同じ
 **狙い**: 「reside in Finland at least part of the study time」の最低期間。12か月以内に収まるか
 **確認したこと**
 - 「It is also possible to start pursuing doctoral studies without funding (part-time doctoral studies). In this case, please contact the potential supervising professor directly. Note that to pursue the degree, you need to reside in Finland at least part of the study time.」→ 月数は書かれていない。資金なしの PT は指導教員に直接連絡するよう案内されているので、質問は居住の1点に絞る
@@ -825,8 +836,9 @@ Dear Doctoral Programme in Electrical Engineering Admissions Team,
 I am a software engineer based in Japan, working in autonomous driving
 and vehicle control, with research interests in motion planning,
 control and state estimation for autonomous vehicles. I am considering
-part-time doctoral studies without funding, while remaining in
-full-time employment in Japan.
+part-time doctoral studies without funding, while continuing to work
+in Japan on reduced hours, with the balance between work and research
+agreed with my employer.
 
 I understand that for part-time doctoral studies I should contact a
 potential supervising professor directly, and I intend to do so. Before
@@ -838,7 +850,8 @@ at least part of the study time".
 
 2. Could it be fulfilled through several shorter stays rather than one
    continuous period? As a Japanese citizen, I can stay in the
-   Schengen area for up to 90 days without a residence permit.
+   Schengen area for up to 90 days without a residence permit, and I
+   could take a leave of absence from work for these stays.
 
 3. I understand that an employer's approval document is required only
    for full-time students working outside Aalto. Could you confirm
@@ -875,7 +888,8 @@ I am a software engineer based in Japan, working in autonomous driving
 and vehicle control, with research interests in guidance, navigation
 and control of autonomous vehicles, including autonomous ships. I am
 considering part-time doctoral studies without funding, while
-remaining in full-time employment in Japan.
+continuing to work in Japan on reduced hours, with the balance between
+work and research agreed with my employer.
 
 I understand that for part-time doctoral studies I should contact a
 potential supervising professor directly, and I intend to do so. Before
@@ -887,7 +901,8 @@ at least part of the study time".
 
 2. Could it be fulfilled through several shorter stays rather than one
    continuous period? As a Japanese citizen, I can stay in the
-   Schengen area for up to 90 days without a residence permit.
+   Schengen area for up to 90 days without a residence permit, and I
+   could take a leave of absence from work for these stays.
 
 3. Is a statement from my employer required for part-time doctoral
    studies?
@@ -928,8 +943,9 @@ I am a software engineer based in Japan, working in autonomous driving
 and vehicle control. I am interested in the PhD in Engineering on a
 part-time basis, in the area of autonomous marine vehicles (state
 estimation, navigation and control), pursued through simulation. I
-would remain in full-time employment in Japan and would not apply for
-a study permit; any visits to St. John's would be short.
+would continue working in Japan on reduced hours, with the balance
+between work and research agreed with my employer, and would not
+apply for a study permit; any visits to St. John's would be short.
 
 I understand that admission depends on a faculty member agreeing to
 supervise, and that the Faculty does not offer pre-assessments, so I
@@ -989,8 +1005,10 @@ I am a software engineer based in Japan, working in autonomous driving
 and vehicle control. I am interested in a PhD (Engineering) in the
 area of autonomous marine vehicles (navigation, guidance and control),
 pursued through simulation, and the work of the Maritime Engineering
-and Robotics group appears to be a close match. I would remain in
-full-time employment in Japan and would not apply for a student visa.
+and Robotics group appears to be a close match. I would continue
+working in Japan on reduced hours, with the balance between work and
+research agreed with my employer, and would not apply for a student
+visa.
 
 Before I approach a potential supervisor, I would be grateful for
 clarification on the following:
@@ -1014,8 +1032,9 @@ clarification on the following:
 4. The 2026 annual fee for the PhD (Engineering) is AUD 44,800. For a
    part-time candidate, would the fee be 50 per cent of this amount?
 
-5. If I study in my own time outside working hours, would my employer
-   still need to confirm study release?
+5. My employer has agreed to reduce my working hours so that I have
+   time for the PhD. What form of employer confirmation would be
+   required?
 
 Thank you for your time.
 
