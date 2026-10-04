@@ -21,8 +21,9 @@
 
 | 大学 | 宛先 | 送信日 | 返信日 | 状態 |
 |---|---|---|---|---|
-| York | cs-pgr-admissions@york.ac.uk | 2026-09-23 | | **返信待ち** |
+| York | cs-pgr-admissions@york.ac.uk | 2026-09-23 | 2026-10-04 | **返信受領(質問1〜5すべてに回答あり)** |
 | York(署名追補) | 同上(同一スレッド) | 2026-09-23 | | **送信済**(下記1-b) |
+| York(お礼・追加質問) | 同上(同一スレッド) | | | **下書き**(下記1-c) |
 | UTS | grs@uts.edu.au | 2026-09-23 | (自動応答のみ) | **返信待ち** |
 | TU Delft | 3mE Graduate School(宛先はユーザーが確認のうえ送信) | 2026-09-23 | | **返信待ち** |
 | UOW | graduate-research-school@uow.edu.au | 2026-09-23 | 2026-09-26 | **返信受領(定型文。質問1〜4いずれも未回答)** |
@@ -113,6 +114,47 @@ I am a software engineer in Japan working on autonomous driving and
 vehicle control. Alongside my work I maintain an open-source textbook
 and codebase on autonomous vehicle control algorithms, linked below,
 which is the foundation I would build a research proposal on.
+
+Kind regards,
+
+Shisato Yano
+Software engineer (autonomous driving / vehicle control), based in Japan
+GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+```
+
+### 1-c. York — お礼と追加質問(2026-10-04 下書き)
+
+回答(下記「受領記録」)を受けて、総額と出願の段取りに直結する2点だけを聞き直す。ATAS は、日本国籍が免除対象であることを**質問ではなく情報として**添える(先方の回答は国籍を考慮しない一般論とみられ、後で手続きの行き違いが起きないようにするため)。ビザは国際課の管轄と案内されたが、日本国籍は短期訪問なら査証不要(ETA のみ)なので、ここでは聞かない。
+
+```
+Subject: Re: Part-time distance PhD in Computer Science — fee rate and entry requirements
+
+Dear <担当者の名前>,
+
+Thank you very much for your detailed reply — it answers my questions
+clearly and is very helpful for my planning.
+
+May I ask two short follow-up questions?
+
+1. You mentioned that the number of milestone visits is reduced for
+   part-time students. In practice, how many one-week visits per year
+   would a part-time distance-learning student normally be expected to
+   make? As I will be balancing these visits with full-time employment
+   in Japan, knowing this in advance would help me plan my leave.
+
+2. Should I secure the agreement of a potential supervisor before
+   submitting my application, or is it acceptable to apply with a
+   research proposal and a statement of my interests (the Centre for
+   Assuring Autonomy and the Real-Time and Distributed Systems group),
+   and have my profile passed on to the relevant groups as you
+   described?
+
+Regarding ATAS, I note from the UK government guidance that Japanese
+nationals are currently exempt from the ATAS requirement. I mention
+this only for your records; I will of course follow the University's
+guidance if this changes.
+
+Thank you again for your help.
 
 Kind regards,
 
@@ -349,6 +391,18 @@ Kind regards,
 3. **指導の条件**: EEE と同じ。大学規定で**指導教員との接触は最低月1回**(遠隔なら通常 Zoom、形式上はメールでも可)。ただし**実際には平均で週1回程度の面談が望ましい**。CS の研究は大半が専門設備を要しないので制約になりにくい。**物理的な設備が必要でも、勤務先が提供できるなら(上記の合意があれば)問題ない**
 4. **ATAS**: 本人は法務の専門家ではないとしたうえで、学生ビザの対象にならない以上不要だろうとの見解。訪英する場合は通常の短期滞在の扱いで、日本国籍なら査証も不要。いずれにせよ ATAS は大した手続きではない
 
+### York(2026-10-04、CS学科 PGR Admissions からの返信)
+
+質問1〜5のすべてに回答があった。詳細は `labs/york.md`。
+
+1. **学費**: PT(6年)は distance でも対面でも **£16,015/年**。FT の £32,030 とともに毎年改定される
+2. **ATAS**: distance でも必要との回答。理由は自費での来校が必須なため。**入学時に2週間**、節目ごとに**年2回・各1週間**(PT は回数を減らす)、**最終試験(viva)は原則対面**。→ ただし日本国籍は ATAS の免除対象([GOV.UK](https://www.gov.uk/guidance/academic-technology-approval-scheme))。回答は一般論とみられる
+3. **英語**: 大学全体の要件ページを案内されただけ。自分で確認した結果は IELTS 6.0(各5.5)/ TOEFL iBT 79
+4. **PT とビザ**: **distance の PT は認める**。ビザそのものは学科では答えられず、国際課(international@york.ac.uk)の管轄
+5. **グループの制限**: distance 特有の制限はない。条件は指導教員の空きとテーマの適合だけ。**出願後にプロフィールを関係する研究グループへ回す**
+
+→ PT の来校回数と、出願前に指導教員の内諾が要るかを 1-c で追加質問する。
+
 ### UOW(2026-09-26、担当者からの返信)
 
 Candidature Management Officer からの返信。**中身は HDR の一般案内の定型文で、照会の質問1〜4にはどれも答えていない。**
@@ -434,7 +488,7 @@ Kind regards,
 
 | 大学 | 元の送信日 | 催促の目安 | 備考 |
 |---|---|---|---|
-| York | 2026-09-23 | 2026-10-07 | 1-b の署名追補と同じスレッド |
+| ~~York~~ | 2026-09-23 | — | 2026-10-04 に返信受領。催促不要 |
 | UTS | 2026-09-23 | 2026-10-07 | 返事がなければ、自動応答にあった Zoom drop-in(平日15-16時 AEST)を使う |
 | TU Delft | 2026-09-23 | 2026-10-07 | |
 | UOW(EIS) | 2026-09-26 | 2026-10-10 | |
@@ -460,7 +514,7 @@ Software engineer (autonomous driving / vehicle control), based in Japan
 GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
 ```
 
-- `<N>`: York は5、TU Delft は5、UOW(EIS)は2
+- `<N>`: TU Delft は5、UOW(EIS)は2(York は返信受領済み)
 
 ### 7-b. UTS 用
 
