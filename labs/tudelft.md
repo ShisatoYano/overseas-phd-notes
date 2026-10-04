@@ -36,7 +36,11 @@
 
 ただし **bench fee は「作業スペースと実験室利用」の対価で、想定利用量に応じて決まる**と明記されており、かつ**学部に免除の裁量がある**。完全リモートで施設を一切使わない場合に減免され得るかは、照会する価値がある(推測。公式の言及はない)。
 
-### 在職可否の判定: ◎(ただし条件付き)
+> 【2026-10-04 訂正】「keep your current job and/or stay where you live」の一文は、**大学全体の PhD ページではなく A+BE 学部(建築)の [Finding a position](https://www.tudelft.nl/en/architecture-and-the-built-environment/research/graduate-school-a-be/finding-a-position) にある記述**だった。しかも A+BE は同じページで自費の受け入れを止めている。大学全体の [PhD](https://www.tudelft.nl/en/education/programmes/phd) / [Admission](https://www.tudelft.nl/en/education/programmes/phd/phd-admission) のページにはこの一文は見当たらない。**在職・現居住地のまま進められることを大学全体で公式に明記している、という評価は根拠が弱くなった。** ME 学部の方針は照会で確かめる(`contacts/admin-inquiries.md` 2)。また [Fees and funding](https://www.tudelft.nl/en/education/programmes/phd/phd-admission/fees-and-funding) の bench fee は、現在「候補者と研究内容で変わる」とだけ書かれ、€10,000/年の額は載っていない
+> 
+> 照会の宛先: graduateschool-ME@tudelft.nl(Graduate School of the Faculty of Mechanical Engineering)
+
+### 在職可否の判定: ◎(ただし条件付き)→ 2026-10-04 に ○〜? へ引き下げ(上の訂正を参照)
 
 「keep your current job and/or stay where you live and work on your project part-time」という文面は、**これまで調べたどの大学よりも直接的に今回の条件を記述している**。York・Swansea の「パートタイム×distance」が制度の組み合わせとして成立するのに対し、TU Delft は**在職・現居住地維持そのものを一つの選択肢として提示している**。
 

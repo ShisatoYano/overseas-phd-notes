@@ -23,14 +23,14 @@
 |---|---|---|---|---|
 | York | cs-pgr-admissions@york.ac.uk | 2026-09-23 | 2026-10-04 | **返信受領(質問1〜5すべてに回答あり)** |
 | York(署名追補) | 同上(同一スレッド) | 2026-09-23 | | **送信済**(下記1-b) |
-| York(お礼・追加質問) | 同上(同一スレッド) | | | **下書き**(下記1-c) |
+| York(お礼・追加質問) | 同上(同一スレッド) | 2026-10-04 | | **返信待ち**(下記1-c。PT の来校回数、出願前に指導教員の内諾が要るか) |
 | UTS | grs@uts.edu.au | 2026-09-23 | (自動応答のみ) | **返信待ち** |
-| TU Delft | 3mE Graduate School(宛先はユーザーが確認のうえ送信) | 2026-09-23 | | **返信待ち** |
+| TU Delft | graduateschool-ME@tudelft.nl | 2026-10-04 | | **返信待ち**(下記2。9/23 に送信済みと誤記録していたため、10/4 に改訂した文面で初回送信) |
 | UOW | graduate-research-school@uow.edu.au | 2026-09-23 | 2026-09-26 | **返信受領(定型文。質問1〜4いずれも未回答)** |
 | UOW(HPS) | ~~hoang_dung_duong@uow.edu.au~~ | 2026-09-23 | — | **不達(宛先不明)** |
 | UOW(EIS) | ddgr-eis@uow.edu.au | 2026-09-26 | | **返信待ち**(下記6) |
 | Swansea | a.m.pauly@swansea.ac.uk | 2026-09-23 | 2026-09-26 | **返信受領(質問1〜4すべてに回答あり)** |
-| Swansea(お礼・追加質問) | 同上(同一スレッド) | 2026-09-26 | | **返信待ち**(独立した個人研究の場合に勤務先との合意書が要るか) |
+| Swansea(お礼・追加質問) | 同上(同一スレッド) | 2026-09-26 | 2026-10-04 | **返信受領**(独立した個人研究なら大学と勤務先の合意書は不要) |
 
 署名はいずれも以下を想定(氏名以外はご自身で補う)。
 
@@ -122,7 +122,7 @@ Software engineer (autonomous driving / vehicle control), based in Japan
 GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
 ```
 
-### 1-c. York — お礼と追加質問(2026-10-04 下書き)
+### 1-c. York — お礼と追加質問(2026-10-04 送信)
 
 回答(下記「受領記録」)を受けて、総額と出願の段取りに直結する2点だけを聞き直す。ATAS は、日本国籍が免除対象であることを**質問ではなく情報として**添える(先方の回答は国籍を考慮しない一般論とみられ、後で手続きの行き違いが起きないようにするため)。ビザは国際課の管轄と案内されたが、日本国籍は短期訪問なら査証不要(ETA のみ)なので、ここでは聞かない。
 
@@ -167,51 +167,64 @@ GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
 
 ## 2. TU Delft — テーマ適合度トップだが不確実性最大
 
-**宛先**: **要確認**。[3mE Graduate School の Contact ページ](https://www.tudelft.nl/en/me/research/graduate-school-me/contact)に窓口担当者の記載はあるがメールアドレスが取得できていない。送信前に同ページで確認する
-**狙い**: 3mE が外部PhDを受け入れるか、「stay where you live」に日本が含まれるか
+**宛先**: graduateschool-ME@tudelft.nl(Graduate School of the Faculty of Mechanical Engineering。[Contact ページ](https://www.tudelft.nl/en/me/research/graduate-school-me/contact)で 2026-10-04 に確認。窓口は Project manager/policy advisor)
+**状態**: **送信済(2026-10-04)**。9/23 に送信済みと誤記録していたが、実際はこの日が初回送信
+**狙い**: ME 学部が自費の外部 PhD を受け入れるか、日本に住んだままで成り立つか
+
+### 2026-10-04 の改訂で変えた点
+
+- **「keep your current job and/or stay where you live」を大学全体の記述として引用するのをやめた。** 再確認すると、この一文は **A+BE 学部(建築)の [Finding a position](https://www.tudelft.nl/en/architecture-and-the-built-environment/research/graduate-school-a-be/finding-a-position) のページ**にあるもので、同じページで A+BE は 2025-01-01 から自費の候補者の受け入れを止めている。大学全体の PhD ページ・Admission ページにはこの一文は見当たらない。ME 学部の担当者にこれを「TU Delft の方針」として示すと、誤りを指摘されて話がそこで止まるおそれがある
+- **bench fee の額(€10,000/年)を書かない。** 大学の [Fees and funding](https://www.tudelft.nl/en/education/programmes/phd/phd-admission/fees-and-funding) は現在「候補者と研究内容で変わる。年ごとに課し、在籍中は固定」とだけ書いている。授業料 €11,000 と「学部の裁量で両方とも免除できる」は変わらず
+- **ビザ論法を先に書く**(第1陣の照会の方針どおり)。日本に住み、渡航は短期の訪問だけになることを先に示す
+- 受け皿に、10/2 の調査で加えた **Maritime and Transport Technology(Negenborn、自律船・マルチロボット)** を加える
+- 質問を5つから4つにまとめた(来校の要否は居住の質問に含めた)
 
 ```
-Subject: External PhD candidate based outside Europe — enquiry (Cognitive Robotics)
+Subject: Self-funded external PhD based in Japan — enquiry (Cognitive Robotics / Maritime and Transport Technology)
 
-Dear Graduate School 3mE,
+Dear Graduate School ME,
 
 I am a software engineer based in Japan, working in autonomous driving
-and vehicle control. My research interests — motion planning, control,
-and multi-robot coordination — align closely with the Cognitive
-Robotics department, in particular the Autonomous Multi-robots Lab and
-the Learning and Autonomous Control group.
+and vehicle control. I am considering a part-time external PhD in the
+Faculty of Mechanical Engineering, self-funded, while continuing in
+full-time employment in Japan. My research interests are motion
+planning, control and multi-robot coordination, pursued through
+simulation, which align with the Cognitive Robotics department
+(Autonomous Multi-robots Lab, Learning and Autonomous Control) and the
+Department of Maritime and Transport Technology.
 
-The TU Delft PhD pages state that an alternative to full-time study is
-to "keep your current job and/or stay where you live and work on your
-project part-time as an external PhD candidate". Before approaching a
-potential promotor, I would like to establish whether this route is
-open to me in practice:
+I would live in Japan throughout and would not need a Dutch residence
+permit; I would travel to Delft only for short visits where the
+programme requires it. Before approaching a potential promotor, I
+would like to establish whether this route is open in practice:
 
-1. Does Graduate School 3mE currently accept external PhD candidates,
-   and does it accept self-funded candidates? I ask because I
-   understand the Faculty of Architecture and the Built Environment
-   stopped accepting self-funded candidates from 1 January 2025, and
-   I would like to know whether 3mE applies a similar policy.
+1. Does the Faculty of Mechanical Engineering currently accept
+   self-funded external PhD candidates? I understand that the Faculty
+   of Architecture and the Built Environment stopped accepting
+   self-funded candidates from 1 January 2025, and I would like to
+   know whether a similar policy applies in your faculty.
 
-2. Does "stay where you live" extend to a candidate residing outside
-   Europe — specifically, in Japan — for the whole of the doctoral
-   programme? Are there precedents of external candidates supervised
-   remotely from outside the EU?
+2. Can an external candidate reside in Japan for the whole programme,
+   with supervision mainly online? If so, at which stages is physical
+   presence in Delft required (for example, the go/no-go assessment
+   or the doctoral defence)? Are there precedents of external
+   candidates based outside Europe?
 
-3. The bench fee of €10,000 per year is described as covering
-   workspace and laboratory access, determined by anticipated use of
-   facilities. For a candidate whose research is entirely
-   computational and who would not use campus facilities, can this
-   fee be reduced or waived?
+3. How is the bench fee determined for an external candidate whose
+   research is entirely computational and who would not use campus
+   workspace or laboratories? Is a reduction or waiver possible in
+   such a case?
 
-4. What is the maximum duration for a part-time external PhD?
-
-5. Is physical presence in Delft required at any point, for example
-   for the go/no-go assessment or the doctoral defence?
+4. What is the maximum duration of a part-time external PhD, and how
+   is the go/no-go assessment timed for part-time candidates?
 
 Thank you for your time.
 
 Kind regards,
+
+Shisato Yano
+Software engineer (autonomous driving / vehicle control), based in Japan
+GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
 ```
 
 ---
@@ -403,6 +416,12 @@ Kind regards,
 
 → PT の来校回数と、出願前に指導教員の内諾が要るかを 1-c で追加質問する。
 
+### Swansea(2026-10-04、Admissions Tutor からの追加質問への返信)
+
+- **勤務先との合意書**: 勤務時間外に勤務先の資源を使わず個人で研究する状況なら、**大学と勤務先の合意書は要らない**との回答
+- 研究提案書を楽しみにしている、と添えられていた。期限の指定はない
+- → 返信はしない。お礼は研究提案書を送るときに兼ねる(内容のない往復で先方の手間を増やさないため)
+
 ### UOW(2026-09-26、担当者からの返信)
 
 Candidature Management Officer からの返信。**中身は HDR の一般案内の定型文で、照会の質問1〜4にはどれも答えていない。**
@@ -489,12 +508,13 @@ Kind regards,
 | 大学 | 元の送信日 | 催促の目安 | 備考 |
 |---|---|---|---|
 | ~~York~~ | 2026-09-23 | — | 2026-10-04 に返信受領。催促不要 |
+| York(追加質問) | 2026-10-04 | 2026-10-18 | 1-c。本質問には回答済みなので、返事がなくても判断は進められる |
 | UTS | 2026-09-23 | 2026-10-07 | 返事がなければ、自動応答にあった Zoom drop-in(平日15-16時 AEST)を使う |
-| TU Delft | 2026-09-23 | 2026-10-07 | |
+| TU Delft | 2026-10-04 | 2026-10-18 | 9/23 は未送信だった。10/4 に初回送信 |
 | UOW(EIS) | 2026-09-26 | 2026-10-10 | |
-| Swansea(追加質問) | 2026-09-26 | 2026-10-10 | 本質問には回答済み。追加質問は1点だけなので、催促しなくてもよい |
+| ~~Swansea(追加質問)~~ | 2026-09-26 | — | 2026-10-04 に返信受領。催促不要 |
 
-### 7-a. York・TU Delft・UOW(EIS)用(共通)
+### 7-a. UOW(EIS)・TU Delft 用
 
 ```
 Subject: Re: <元の件名>
@@ -514,7 +534,7 @@ Software engineer (autonomous driving / vehicle control), based in Japan
 GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
 ```
 
-- `<N>`: TU Delft は5、UOW(EIS)は2(York は返信受領済み)
+- `<N>`: UOW(EIS)は2、TU Delft は4(York は返信受領済み)
 
 ### 7-b. UTS 用
 

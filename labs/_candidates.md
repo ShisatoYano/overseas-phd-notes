@@ -20,7 +20,7 @@
 | **Swansea** (CS) | 英 | Distance PhD | PT 6年 | **◎ 明記** | △ 受け皿なし(要翻訳) | ○ |
 | **UOW** | 豪 | Distance HDR | PT可 | **◎ 肯定形で明記(唯一)** | △ 自律移動の拠点なし。DSL が唯一の接続先 | ○(詳細: `labs/uow.md`) |
 | **UTS** | 豪 | PhD by distance | PT 最長8年 | ○ 推定 | **◎ Robotics Institute** | ○ |
-| **TU Delft** | 蘭 | External PhD(在職・現居住地維持を公式に明記) | ◎ | **○ ただし地理的範囲が不明** | **◎ Autonomous Multi-robots Lab 他(全候補中トップ)** | ○ 不確実性大(詳細: `labs/tudelft.md`) |
+| **TU Delft** | 蘭 | External PhD(在職・現居住地維持の記述は A+BE 学部のページのもので、大学全体の明記ではなかった。2026-10-04 訂正) | ◎ | **○ ただし地理的範囲が不明** | **◎ Autonomous Multi-robots Lab 他(全候補中トップ)** | ○ 不確実性大(詳細: `labs/tudelft.md`) |
 | **Imperial** | 英 | なし(PRI / Split PhD のみ) | PT 5-6年 | △ 日本拠点は PRI(勤務先を拠点)か Split が前提 | **◎ Control and Power 他** | △(詳細: `labs/imperial.md`) |
 | Reading | 英 | PhD by Distance | PT 4-6年 | △ 条件付き | ? 未確認 | △ → ○ 要確認(2026-09-28 条件緩和で再評価) |
 | Wolverhampton | 英 | FT distance 4年 | PT 8年 | ? 未確認 | ? Computing and Mathematics | ? |
