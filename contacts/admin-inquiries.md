@@ -32,22 +32,24 @@
 | Swansea | a.m.pauly@swansea.ac.uk | 2026-09-23 | 2026-09-26 | **返信受領(質問1〜4すべてに回答あり)** |
 | Swansea(お礼・追加質問) | 同上(同一スレッド) | 2026-09-26 | 2026-10-04 | **返信受領**(独立した個人研究なら大学と勤務先の合意書は不要) |
 
-署名はいずれも以下を想定(氏名以外はご自身で補う)。
+署名は以下を使う(2026-10-04 改訂)。
 
 ```
 Shisato Yano
 Software engineer (autonomous driving / vehicle control), based in Japan
-GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+GitHub: https://github.com/ShisatoYano
+LinkedIn: https://www.linkedin.com/in/shisatoyano
 ```
 
-OSSのリンクを添えるのは、York が「非標準の経歴でも十分なCSの知識と経験を示せれば考慮する」と明記しているため。事務照会の段階では必須ではないが、経歴の裏付けとして機能する。
+- この改訂より前に送ったメール(York 1-b・1-c、TU Delft 2 など)は、旧署名(GitHub は `AutonomousVehicleControlBeginnersGuide` のリポジトリへのリンク、LinkedIn なし)で送っている。送った文面の記録は、送ったときのまま残す
+- 経歴の裏付けを添える理由は変わらない(York が「非標準の経歴でも十分なCSの知識と経験を示せれば考慮する」と明記しているため)。改訂後は GitHub のプロフィールから OSS をたどれ、LinkedIn で職歴も確認できる
 
 ## 送信前チェックリスト
 
 1. **宛先アドレスが現在も有効か**、公式ページで確認する
 2. **宛名(Dear ...)が現在の正式名称と一致するか**(例: TU Delft は「Graduate School 3mE」と「Graduate School ME」の表記が混在している)
 3. **コースコード・学費・年限など、本文で引用した数値が最新か**(年度で変わる)
-4. **署名を入れたか** — 氏名 + 所在国 + 職種 + OSSのリンク
+4. **署名を入れたか** — 氏名 + 職種 + 所在国 + GitHub + LinkedIn(上記の改訂後の署名)
 5. 送信後、本ファイルのステータス表に送信日を記入する
 
 > 2026-09-23: York 宛の送信で署名を付け忘れた。差出人欄で本人は特定できるため追いメールはせず、**先方からの返信への返答時に署名を付けて OSS を提示する**方針とした。
@@ -531,7 +533,8 @@ Kind regards,
 
 Shisato Yano
 Software engineer (autonomous driving / vehicle control), based in Japan
-GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+GitHub: https://github.com/ShisatoYano
+LinkedIn: https://www.linkedin.com/in/shisatoyano
 ```
 
 - `<N>`: UOW(EIS)は2、TU Delft は4(York は返信受領済み)
@@ -558,7 +561,8 @@ Kind regards,
 
 Shisato Yano
 Software engineer (autonomous driving / vehicle control), based in Japan
-GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+GitHub: https://github.com/ShisatoYano
+LinkedIn: https://www.linkedin.com/in/shisatoyano
 ```
 
 ### 7-c. Swansea 用(10/10 時点で返事がなければ)
@@ -659,7 +663,8 @@ Kind regards,
 
 Shisato Yano
 Software engineer (autonomous driving / vehicle control), based in Japan
-GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+GitHub: https://github.com/ShisatoYano
+LinkedIn: https://www.linkedin.com/in/shisatoyano
 ```
 
 ---
@@ -726,7 +731,8 @@ Kind regards,
 
 Shisato Yano
 Software engineer (autonomous driving / vehicle control), based in Japan
-GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+GitHub: https://github.com/ShisatoYano
+LinkedIn: https://www.linkedin.com/in/shisatoyano
 ```
 
 ---
@@ -794,7 +800,8 @@ Kind regards,
 
 Shisato Yano
 Software engineer (autonomous driving / vehicle control), based in Japan
-GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+GitHub: https://github.com/ShisatoYano
+LinkedIn: https://www.linkedin.com/in/shisatoyano
 ```
 
 ---
@@ -847,7 +854,8 @@ Kind regards,
 
 Shisato Yano
 Software engineer (autonomous driving / vehicle control), based in Japan
-GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+GitHub: https://github.com/ShisatoYano
+LinkedIn: https://www.linkedin.com/in/shisatoyano
 ```
 
 ---
@@ -894,7 +902,8 @@ Kind regards,
 
 Shisato Yano
 Software engineer (autonomous driving / vehicle control), based in Japan
-GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+GitHub: https://github.com/ShisatoYano
+LinkedIn: https://www.linkedin.com/in/shisatoyano
 ```
 
 ---
@@ -953,7 +962,8 @@ Kind regards,
 
 Shisato Yano
 Software engineer (autonomous driving / vehicle control), based in Japan
-GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+GitHub: https://github.com/ShisatoYano
+LinkedIn: https://www.linkedin.com/in/shisatoyano
 ```
 
 ---
@@ -1013,7 +1023,8 @@ Kind regards,
 
 Shisato Yano
 Software engineer (autonomous driving / vehicle control), based in Japan
-GitHub: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
+GitHub: https://github.com/ShisatoYano
+LinkedIn: https://www.linkedin.com/in/shisatoyano
 ```
 
 ---
