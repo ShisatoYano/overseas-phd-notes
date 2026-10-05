@@ -37,7 +37,7 @@ PhD 留学の実現までにやることを、前後の依存関係の順に並�
 
 #### 1-1. 返信待ちの5校に催促する(10/7 頃)
 
-- [x] York(cs-pgr-admissions): PT 学費 → 2026-10-04 に返信あり、催促不要。PT £16,015/年、毎年の来校が必須(`labs/york.md`)。来校回数と指導教員の内諾の要否を追加で質問(`contacts/admin-inquiries.md` 1-c)
+- [x] York(cs-pgr-admissions): PT 学費 → 2026-10-04 に返信あり、催促不要。PT £16,015/年、毎年の来校が必須(`labs/york.md`)。来校回数と指導教員の内諾の要否を追加で質問(`contacts/admin-inquiries.md` 1-c)→ 2026-10-06 に返信あり。PT の来校は年1回・1週間、出願前の内諾は不要、ATAS は不要
 - [ ] UTS(grs): 在職の可否
 - [ ] TU Delft(3mE Graduate School): 海外在住の外部 PhD の受け入れ → 【2026-10-04 訂正】**9/23 に送信済みと誤記録していたが、実際は未送信**。文面を改訂し、**2026-10-04 に初回送信**(宛先 graduateschool-ME@tudelft.nl、`contacts/admin-inquiries.md` 2)。催促の目安は 10/18
 - [ ] UOW(EIS): 指導教員の候補
